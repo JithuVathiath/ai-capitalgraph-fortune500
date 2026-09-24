@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+.DS_Store
+build/
+dist/
+*.egg-info/
+
+# Large SEC bulk downloads are reproducible but are not committed.
+data/external/
+

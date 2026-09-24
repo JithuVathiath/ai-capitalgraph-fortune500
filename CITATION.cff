@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "AI CapitalGraph: Fortune 500 Investment, Ownership and Strategic Motive Observatory"
+message: "If you use this research software or its curated evidence register, please cite it."
+type: software
+authors:
+  - family-names: "Biju"
+    given-names: "Jithu Vathiath"
+version: 1.0.0
+date-released: 2026-09-24
+license: MIT
+

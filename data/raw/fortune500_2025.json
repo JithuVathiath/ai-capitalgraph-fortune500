@@ -1,0 +1,4519 @@
+{
+  "dataset": "Fortune 500 Companies Directory 2025: Complete List",
+  "version": "2025 Edition",
+  "lastUpdated": "2026-02-18",
+  "source": "Salt Technologies AI (www.salttechno.ai)",
+  "license": "CC BY 4.0",
+  "recordCount": 500,
+  "schema": {
+    "rank": "Fortune 500 ranking position (1-500)",
+    "company": "Official company name",
+    "industry": "Primary industry or sector",
+    "revenueMillions": "Total revenue in USD millions for FY2024",
+    "employees": "Total employee headcount (approximate)",
+    "headquarters": "City and state of principal office",
+    "state": "U.S. state abbreviation"
+  },
+  "data": [
+    {
+      "rank": 1,
+      "company": "Walmart",
+      "industry": "Retail",
+      "revenueMillions": 680985,
+      "employees": 2100000,
+      "headquarters": "Bentonville, AR",
+      "state": "AR"
+    },
+    {
+      "rank": 2,
+      "company": "Amazon",
+      "industry": "Technology / Retail",
+      "revenueMillions": 637959,
+      "employees": 1556000,
+      "headquarters": "Seattle, WA",
+      "state": "WA"
+    },
+    {
+      "rank": 3,
+      "company": "UnitedHealth Group",
+      "industry": "Healthcare",
+      "revenueMillions": 400278,
+      "employees": 400000,
+      "headquarters": "Minnetonka, MN",
+      "state": "MN"
+    },
+    {
+      "rank": 4,
+      "company": "Apple",
+      "industry": "Technology",
+      "revenueMillions": 391035,
+      "employees": 164000,
+      "headquarters": "Cupertino, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 5,
+      "company": "CVS Health",
+      "industry": "Healthcare",
+      "revenueMillions": 372809,
+      "employees": 259500,
+      "headquarters": "Woonsocket, RI",
+      "state": "RI"
+    },
+    {
+      "rank": 6,
+      "company": "Berkshire Hathaway",
+      "industry": "Conglomerate",
+      "revenueMillions": 371433,
+      "employees": 392400,
+      "headquarters": "Omaha, NE",
+      "state": "NE"
+    },
+    {
+      "rank": 7,
+      "company": "Alphabet",
+      "industry": "Technology",
+      "revenueMillions": 350018,
+      "employees": 183323,
+      "headquarters": "Mountain View, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 8,
+      "company": "Exxon Mobil",
+      "industry": "Energy",
+      "revenueMillions": 349595,
+      "employees": 60900,
+      "headquarters": "Spring, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 9,
+      "company": "McKesson",
+      "industry": "Healthcare",
+      "revenueMillions": 308951,
+      "employees": 48000,
+      "headquarters": "Irving, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 10,
+      "company": "Cencora",
+      "industry": "Healthcare",
+      "revenueMillions": 293959,
+      "employees": 44000,
+      "headquarters": "Conshohocken, PA",
+      "state": "PA"
+    },
+    {
+      "rank": 11,
+      "company": "JPMorgan Chase",
+      "industry": "Financial Services",
+      "revenueMillions": 278906,
+      "employees": 317233,
+      "headquarters": "New York, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 12,
+      "company": "Costco Wholesale",
+      "industry": "Retail",
+      "revenueMillions": 254453,
+      "employees": 333000,
+      "headquarters": "Issaquah, WA",
+      "state": "WA"
+    },
+    {
+      "rank": 13,
+      "company": "Cigna Group",
+      "industry": "Healthcare",
+      "revenueMillions": 247121,
+      "employees": 72398,
+      "headquarters": "Bloomfield, CT",
+      "state": "CT"
+    },
+    {
+      "rank": 14,
+      "company": "Microsoft",
+      "industry": "Technology",
+      "revenueMillions": 245122,
+      "employees": 228000,
+      "headquarters": "Redmond, WA",
+      "state": "WA"
+    },
+    {
+      "rank": 15,
+      "company": "Cardinal Health",
+      "industry": "Healthcare",
+      "revenueMillions": 226827,
+      "employees": 48411,
+      "headquarters": "Dublin, OH",
+      "state": "OH"
+    },
+    {
+      "rank": 16,
+      "company": "Chevron",
+      "industry": "Energy",
+      "revenueMillions": 202792,
+      "employees": 45298,
+      "headquarters": "Houston, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 17,
+      "company": "Bank of America",
+      "industry": "Financial Services",
+      "revenueMillions": 192434,
+      "employees": 213193,
+      "headquarters": "Charlotte, NC",
+      "state": "NC"
+    },
+    {
+      "rank": 18,
+      "company": "General Motors",
+      "industry": "Automotive",
+      "revenueMillions": 187442,
+      "employees": 162000,
+      "headquarters": "Detroit, MI",
+      "state": "MI"
+    },
+    {
+      "rank": 19,
+      "company": "Ford Motor",
+      "industry": "Automotive",
+      "revenueMillions": 184992,
+      "employees": 171000,
+      "headquarters": "Dearborn, MI",
+      "state": "MI"
+    },
+    {
+      "rank": 20,
+      "company": "Elevance Health",
+      "industry": "Healthcare",
+      "revenueMillions": 177011,
+      "employees": 103679,
+      "headquarters": "Indianapolis, IN",
+      "state": "IN"
+    },
+    {
+      "rank": 21,
+      "company": "Citigroup",
+      "industry": "Financial Services",
+      "revenueMillions": 170757,
+      "employees": 227855,
+      "headquarters": "New York, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 22,
+      "company": "Meta Platforms",
+      "industry": "Technology",
+      "revenueMillions": 164501,
+      "employees": 74067,
+      "headquarters": "Menlo Park, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 23,
+      "company": "Centene",
+      "industry": "Healthcare",
+      "revenueMillions": 163071,
+      "employees": 60500,
+      "headquarters": "St. Louis, MO",
+      "state": "MO"
+    },
+    {
+      "rank": 24,
+      "company": "Home Depot",
+      "industry": "Retail",
+      "revenueMillions": 159514,
+      "employees": 470100,
+      "headquarters": "Atlanta, GA",
+      "state": "GA"
+    },
+    {
+      "rank": 25,
+      "company": "Fannie Mae",
+      "industry": "Financial Services",
+      "revenueMillions": 152670,
+      "employees": 8200,
+      "headquarters": "Washington, DC",
+      "state": "DC"
+    },
+    {
+      "rank": 26,
+      "company": "Walgreens Boots Alliance",
+      "industry": "Retail / Pharmacy",
+      "revenueMillions": 147658,
+      "employees": 252500,
+      "headquarters": "Deerfield, IL",
+      "state": "IL"
+    },
+    {
+      "rank": 27,
+      "company": "Kroger",
+      "industry": "Retail",
+      "revenueMillions": 147123,
+      "employees": 409000,
+      "headquarters": "Cincinnati, OH",
+      "state": "OH"
+    },
+    {
+      "rank": 28,
+      "company": "Phillips 66",
+      "industry": "Energy",
+      "revenueMillions": 145496,
+      "employees": 13200,
+      "headquarters": "Houston, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 29,
+      "company": "Marathon Petroleum",
+      "industry": "Energy",
+      "revenueMillions": 140412,
+      "employees": 18300,
+      "headquarters": "Findlay, OH",
+      "state": "OH"
+    },
+    {
+      "rank": 30,
+      "company": "Verizon Communications",
+      "industry": "Telecommunications",
+      "revenueMillions": 134788,
+      "employees": 99600,
+      "headquarters": "New York, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 31,
+      "company": "NVIDIA",
+      "industry": "Technology",
+      "revenueMillions": 130497,
+      "employees": 36000,
+      "headquarters": "Santa Clara, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 32,
+      "company": "Goldman Sachs",
+      "industry": "Financial Services",
+      "revenueMillions": 126853,
+      "employees": 46500,
+      "headquarters": "New York, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 33,
+      "company": "Wells Fargo",
+      "industry": "Financial Services",
+      "revenueMillions": 125397,
+      "employees": 217502,
+      "headquarters": "San Francisco, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 34,
+      "company": "Valero Energy",
+      "industry": "Energy",
+      "revenueMillions": 123974,
+      "employees": 9910,
+      "headquarters": "San Antonio, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 35,
+      "company": "Comcast",
+      "industry": "Telecommunications / Media",
+      "revenueMillions": 123731,
+      "employees": 182000,
+      "headquarters": "Philadelphia, PA",
+      "state": "PA"
+    },
+    {
+      "rank": 36,
+      "company": "State Farm Insurance",
+      "industry": "Insurance",
+      "revenueMillions": 122951,
+      "employees": 67381,
+      "headquarters": "Bloomington, IL",
+      "state": "IL"
+    },
+    {
+      "rank": 37,
+      "company": "AT&T",
+      "industry": "Telecommunications",
+      "revenueMillions": 122336,
+      "employees": 140990,
+      "headquarters": "Dallas, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 38,
+      "company": "Freddie Mac",
+      "industry": "Financial Services",
+      "revenueMillions": 122052,
+      "employees": 8090,
+      "headquarters": "McLean, VA",
+      "state": "VA"
+    },
+    {
+      "rank": 39,
+      "company": "Humana",
+      "industry": "Healthcare",
+      "revenueMillions": 117761,
+      "employees": 65680,
+      "headquarters": "Louisville, KY",
+      "state": "KY"
+    },
+    {
+      "rank": 40,
+      "company": "Morgan Stanley",
+      "industry": "Financial Services",
+      "revenueMillions": 107285,
+      "employees": 80478,
+      "headquarters": "New York, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 41,
+      "company": "Target",
+      "industry": "Retail",
+      "revenueMillions": 106566,
+      "employees": 440000,
+      "headquarters": "Minneapolis, MN",
+      "state": "MN"
+    },
+    {
+      "rank": 42,
+      "company": "StoneX Group",
+      "industry": "Financial Services",
+      "revenueMillions": 99888,
+      "employees": 4500,
+      "headquarters": "New York, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 43,
+      "company": "Tesla",
+      "industry": "Automotive / Energy",
+      "revenueMillions": 97690,
+      "employees": 125665,
+      "headquarters": "Austin, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 44,
+      "company": "Dell Technologies",
+      "industry": "Technology",
+      "revenueMillions": 95567,
+      "employees": 108000,
+      "headquarters": "Round Rock, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 45,
+      "company": "PepsiCo",
+      "industry": "Consumer Goods",
+      "revenueMillions": 91854,
+      "employees": 319000,
+      "headquarters": "Purchase, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 46,
+      "company": "Walt Disney",
+      "industry": "Media / Entertainment",
+      "revenueMillions": 91361,
+      "employees": 205040,
+      "headquarters": "Burbank, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 47,
+      "company": "United Parcel Service",
+      "industry": "Transportation / Logistics",
+      "revenueMillions": 91070,
+      "employees": 372180,
+      "headquarters": "Atlanta, GA",
+      "state": "GA"
+    },
+    {
+      "rank": 48,
+      "company": "Johnson & Johnson",
+      "industry": "Pharmaceuticals",
+      "revenueMillions": 88821,
+      "employees": 138100,
+      "headquarters": "New Brunswick, NJ",
+      "state": "NJ"
+    },
+    {
+      "rank": 49,
+      "company": "FedEx",
+      "industry": "Transportation / Logistics",
+      "revenueMillions": 87693,
+      "employees": 422100,
+      "headquarters": "Memphis, TN",
+      "state": "TN"
+    },
+    {
+      "rank": 50,
+      "company": "Archer Daniels Midland",
+      "industry": "Agriculture / Food",
+      "revenueMillions": 85530,
+      "employees": 43213,
+      "headquarters": "Chicago, IL",
+      "state": "IL"
+    },
+    {
+      "rank": 51,
+      "company": "Procter & Gamble",
+      "industry": "Consumer Goods",
+      "revenueMillions": 84039,
+      "employees": 108000,
+      "headquarters": "Cincinnati, OH",
+      "state": "OH"
+    },
+    {
+      "rank": 52,
+      "company": "Lowe's",
+      "industry": "Retail",
+      "revenueMillions": 83674,
+      "employees": 215500,
+      "headquarters": "Mooresville, NC",
+      "state": "NC"
+    },
+    {
+      "rank": 53,
+      "company": "Energy Transfer",
+      "industry": "Energy",
+      "revenueMillions": 82671,
+      "employees": 16248,
+      "headquarters": "Dallas, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 54,
+      "company": "RTX Corporation",
+      "industry": "Aerospace / Defense",
+      "revenueMillions": 80739,
+      "employees": 186000,
+      "headquarters": "Arlington, VA",
+      "state": "VA"
+    },
+    {
+      "rank": 55,
+      "company": "Albertsons",
+      "industry": "Retail",
+      "revenueMillions": 79238,
+      "employees": 196650,
+      "headquarters": "Boise, ID",
+      "state": "ID"
+    },
+    {
+      "rank": 56,
+      "company": "Sysco",
+      "industry": "Food Distribution",
+      "revenueMillions": 78844,
+      "employees": 76000,
+      "headquarters": "Houston, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 57,
+      "company": "Progressive",
+      "industry": "Insurance",
+      "revenueMillions": 75372,
+      "employees": 66308,
+      "headquarters": "Mayfield Village, OH",
+      "state": "OH"
+    },
+    {
+      "rank": 58,
+      "company": "American Express",
+      "industry": "Financial Services",
+      "revenueMillions": 74201,
+      "employees": 75100,
+      "headquarters": "New York, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 59,
+      "company": "Lockheed Martin",
+      "industry": "Aerospace / Defense",
+      "revenueMillions": 71043,
+      "employees": 121000,
+      "headquarters": "Bethesda, MD",
+      "state": "MD"
+    },
+    {
+      "rank": 60,
+      "company": "MetLife",
+      "industry": "Insurance",
+      "revenueMillions": 70986,
+      "employees": 45000,
+      "headquarters": "New York, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 61,
+      "company": "HCA Healthcare",
+      "industry": "Healthcare",
+      "revenueMillions": 70603,
+      "employees": 271000,
+      "headquarters": "Nashville, TN",
+      "state": "TN"
+    },
+    {
+      "rank": 62,
+      "company": "Prudential Financial",
+      "industry": "Financial Services",
+      "revenueMillions": 70405,
+      "employees": 37936,
+      "headquarters": "Newark, NJ",
+      "state": "NJ"
+    },
+    {
+      "rank": 63,
+      "company": "Boeing",
+      "industry": "Aerospace / Defense",
+      "revenueMillions": 66517,
+      "employees": 172000,
+      "headquarters": "Arlington, VA",
+      "state": "VA"
+    },
+    {
+      "rank": 64,
+      "company": "Caterpillar",
+      "industry": "Industrial Machinery",
+      "revenueMillions": 64809,
+      "employees": 112900,
+      "headquarters": "Irving, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 65,
+      "company": "Merck",
+      "industry": "Pharmaceuticals",
+      "revenueMillions": 64168,
+      "employees": 74000,
+      "headquarters": "Rahway, NJ",
+      "state": "NJ"
+    },
+    {
+      "rank": 66,
+      "company": "Allstate",
+      "industry": "Insurance",
+      "revenueMillions": 64106,
+      "employees": 55200,
+      "headquarters": "Northbrook, IL",
+      "state": "IL"
+    },
+    {
+      "rank": 67,
+      "company": "Pfizer",
+      "industry": "Pharmaceuticals",
+      "revenueMillions": 63627,
+      "employees": 81000,
+      "headquarters": "New York, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 68,
+      "company": "IBM",
+      "industry": "Technology",
+      "revenueMillions": 62753,
+      "employees": 284500,
+      "headquarters": "Armonk, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 69,
+      "company": "New York Life Insurance",
+      "industry": "Insurance",
+      "revenueMillions": 62639,
+      "employees": 15131,
+      "headquarters": "New York, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 70,
+      "company": "Delta Air Lines",
+      "industry": "Airlines",
+      "revenueMillions": 61643,
+      "employees": 103000,
+      "headquarters": "Atlanta, GA",
+      "state": "GA"
+    },
+    {
+      "rank": 71,
+      "company": "Publix Super Markets",
+      "industry": "Retail",
+      "revenueMillions": 60177,
+      "employees": 255000,
+      "headquarters": "Lakeland, FL",
+      "state": "FL"
+    },
+    {
+      "rank": 72,
+      "company": "Nationwide",
+      "industry": "Insurance",
+      "revenueMillions": 58646,
+      "employees": 22453,
+      "headquarters": "Columbus, OH",
+      "state": "OH"
+    },
+    {
+      "rank": 73,
+      "company": "TD Synnex",
+      "industry": "Technology Distribution",
+      "revenueMillions": 58452,
+      "employees": 25750,
+      "headquarters": "Clearwater, FL",
+      "state": "FL"
+    },
+    {
+      "rank": 74,
+      "company": "United Airlines Holdings",
+      "industry": "Airlines",
+      "revenueMillions": 57063,
+      "employees": 107300,
+      "headquarters": "Chicago, IL",
+      "state": "IL"
+    },
+    {
+      "rank": 75,
+      "company": "ConocoPhillips",
+      "industry": "Energy",
+      "revenueMillions": 56953,
+      "employees": 11800,
+      "headquarters": "Houston, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 76,
+      "company": "TJX Companies",
+      "industry": "Retail",
+      "revenueMillions": 56360,
+      "employees": 364000,
+      "headquarters": "Framingham, MA",
+      "state": "MA"
+    },
+    {
+      "rank": 77,
+      "company": "AbbVie",
+      "industry": "Pharmaceuticals",
+      "revenueMillions": 56334,
+      "employees": 55000,
+      "headquarters": "North Chicago, IL",
+      "state": "IL"
+    },
+    {
+      "rank": 78,
+      "company": "Enterprise Products Partners",
+      "industry": "Energy",
+      "revenueMillions": 56219,
+      "employees": 7800,
+      "headquarters": "Houston, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 79,
+      "company": "Charter Communications",
+      "industry": "Telecommunications",
+      "revenueMillions": 55085,
+      "employees": 94500,
+      "headquarters": "Stamford, CT",
+      "state": "CT"
+    },
+    {
+      "rank": 80,
+      "company": "Performance Food Group",
+      "industry": "Food Distribution",
+      "revenueMillions": 54681,
+      "employees": 36815,
+      "headquarters": "Richmond, VA",
+      "state": "VA"
+    },
+    {
+      "rank": 81,
+      "company": "American Airlines Group",
+      "industry": "Airlines",
+      "revenueMillions": 54211,
+      "employees": 133300,
+      "headquarters": "Fort Worth, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 82,
+      "company": "Capital One Financial",
+      "industry": "Financial Services",
+      "revenueMillions": 53938,
+      "employees": 52600,
+      "headquarters": "McLean, VA",
+      "state": "VA"
+    },
+    {
+      "rank": 83,
+      "company": "Cisco Systems",
+      "industry": "Technology",
+      "revenueMillions": 53803,
+      "employees": 90400,
+      "headquarters": "San Jose, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 84,
+      "company": "HP Inc",
+      "industry": "Technology",
+      "revenueMillions": 53559,
+      "employees": 58000,
+      "headquarters": "Palo Alto, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 85,
+      "company": "Tyson Foods",
+      "industry": "Food / Agriculture",
+      "revenueMillions": 53309,
+      "employees": 138000,
+      "headquarters": "Springdale, AR",
+      "state": "AR"
+    },
+    {
+      "rank": 86,
+      "company": "Intel",
+      "industry": "Technology",
+      "revenueMillions": 53101,
+      "employees": 108900,
+      "headquarters": "Santa Clara, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 87,
+      "company": "Oracle",
+      "industry": "Technology",
+      "revenueMillions": 52961,
+      "employees": 159000,
+      "headquarters": "Austin, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 88,
+      "company": "Broadcom",
+      "industry": "Technology",
+      "revenueMillions": 52432,
+      "employees": 37000,
+      "headquarters": "Palo Alto, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 89,
+      "company": "Deere & Company",
+      "industry": "Industrial Machinery",
+      "revenueMillions": 51716,
+      "employees": 55524,
+      "headquarters": "Moline, IL",
+      "state": "IL"
+    },
+    {
+      "rank": 90,
+      "company": "Nike",
+      "industry": "Consumer Goods",
+      "revenueMillions": 51361,
+      "employees": 78400,
+      "headquarters": "Beaverton, OR",
+      "state": "OR"
+    },
+    {
+      "rank": 91,
+      "company": "Liberty Mutual Insurance Group",
+      "industry": "Insurance",
+      "revenueMillions": 50429,
+      "employees": 40000,
+      "headquarters": "Boston, MA",
+      "state": "MA"
+    },
+    {
+      "rank": 92,
+      "company": "Plains GP Holdings",
+      "industry": "Energy",
+      "revenueMillions": 50073,
+      "employees": 4200,
+      "headquarters": "Houston, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 93,
+      "company": "USAA",
+      "industry": "Insurance",
+      "revenueMillions": 48560,
+      "employees": 38018,
+      "headquarters": "San Antonio, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 94,
+      "company": "Bristol-Myers Squibb",
+      "industry": "Pharmaceuticals",
+      "revenueMillions": 48300,
+      "employees": 34100,
+      "headquarters": "New York, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 95,
+      "company": "Ingram Micro",
+      "industry": "Technology Distribution",
+      "revenueMillions": 47984,
+      "employees": 26125,
+      "headquarters": "Irvine, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 96,
+      "company": "General Dynamics",
+      "industry": "Aerospace / Defense",
+      "revenueMillions": 47716,
+      "employees": 117000,
+      "headquarters": "Reston, VA",
+      "state": "VA"
+    },
+    {
+      "rank": 97,
+      "company": "Coca-Cola",
+      "industry": "Consumer Goods",
+      "revenueMillions": 47061,
+      "employees": 69700,
+      "headquarters": "Atlanta, GA",
+      "state": "GA"
+    },
+    {
+      "rank": 98,
+      "company": "TIAA",
+      "industry": "Financial Services",
+      "revenueMillions": 46946,
+      "employees": 15623,
+      "headquarters": "New York, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 99,
+      "company": "Travelers Companies",
+      "industry": "Insurance",
+      "revenueMillions": 46423,
+      "employees": 34000,
+      "headquarters": "New York, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 100,
+      "company": "Eli Lilly",
+      "industry": "Pharmaceuticals",
+      "revenueMillions": 45043,
+      "employees": 47000,
+      "headquarters": "Indianapolis, IN",
+      "state": "IN"
+    },
+    {
+      "rank": 101,
+      "company": "AIG",
+      "industry": "Insurance",
+      "revenueMillions": 44890,
+      "employees": 26200,
+      "headquarters": "New York, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 102,
+      "company": "Dow",
+      "industry": "Chemicals",
+      "revenueMillions": 44622,
+      "employees": 35900,
+      "headquarters": "Midland, MI",
+      "state": "MI"
+    },
+    {
+      "rank": 103,
+      "company": "Best Buy",
+      "industry": "Retail",
+      "revenueMillions": 43452,
+      "employees": 85000,
+      "headquarters": "Richfield, MN",
+      "state": "MN"
+    },
+    {
+      "rank": 104,
+      "company": "Thermo Fisher Scientific",
+      "industry": "Life Sciences",
+      "revenueMillions": 42879,
+      "employees": 122000,
+      "headquarters": "Waltham, MA",
+      "state": "MA"
+    },
+    {
+      "rank": 105,
+      "company": "Northrop Grumman",
+      "industry": "Aerospace / Defense",
+      "revenueMillions": 40834,
+      "employees": 100500,
+      "headquarters": "Falls Church, VA",
+      "state": "VA"
+    },
+    {
+      "rank": 106,
+      "company": "CHS",
+      "industry": "Agriculture",
+      "revenueMillions": 40498,
+      "employees": 10431,
+      "headquarters": "Inver Grove Heights, MN",
+      "state": "MN"
+    },
+    {
+      "rank": 107,
+      "company": "Abbott Laboratories",
+      "industry": "Healthcare",
+      "revenueMillions": 40109,
+      "employees": 114000,
+      "headquarters": "Abbott Park, IL",
+      "state": "IL"
+    },
+    {
+      "rank": 108,
+      "company": "LyondellBasell Industries",
+      "industry": "Chemicals",
+      "revenueMillions": 39808,
+      "employees": 19100,
+      "headquarters": "Houston, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 109,
+      "company": "Qualcomm",
+      "industry": "Technology",
+      "revenueMillions": 38962,
+      "employees": 51000,
+      "headquarters": "San Diego, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 110,
+      "company": "Dollar General",
+      "industry": "Retail",
+      "revenueMillions": 38691,
+      "employees": 140000,
+      "headquarters": "Goodlettsville, TN",
+      "state": "TN"
+    },
+    {
+      "rank": 111,
+      "company": "GE Aerospace",
+      "industry": "Aerospace / Defense",
+      "revenueMillions": 38702,
+      "employees": 52000,
+      "headquarters": "Evendale, OH",
+      "state": "OH"
+    },
+    {
+      "rank": 112,
+      "company": "Salesforce",
+      "industry": "Technology",
+      "revenueMillions": 38419,
+      "employees": 73541,
+      "headquarters": "San Francisco, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 113,
+      "company": "T-Mobile US",
+      "industry": "Telecommunications",
+      "revenueMillions": 38265,
+      "employees": 75000,
+      "headquarters": "Bellevue, WA",
+      "state": "WA"
+    },
+    {
+      "rank": 114,
+      "company": "Honeywell International",
+      "industry": "Industrial Conglomerate",
+      "revenueMillions": 37854,
+      "employees": 97000,
+      "headquarters": "Charlotte, NC",
+      "state": "NC"
+    },
+    {
+      "rank": 115,
+      "company": "Molina Healthcare",
+      "industry": "Healthcare",
+      "revenueMillions": 37798,
+      "employees": 17900,
+      "headquarters": "Long Beach, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 116,
+      "company": "US Foods Holding",
+      "industry": "Food Distribution",
+      "revenueMillions": 37410,
+      "employees": 30000,
+      "headquarters": "Rosemont, IL",
+      "state": "IL"
+    },
+    {
+      "rank": 117,
+      "company": "Mondelez International",
+      "industry": "Consumer Goods",
+      "revenueMillions": 36445,
+      "employees": 91000,
+      "headquarters": "Chicago, IL",
+      "state": "IL"
+    },
+    {
+      "rank": 118,
+      "company": "PBF Energy",
+      "industry": "Energy",
+      "revenueMillions": 36237,
+      "employees": 4200,
+      "headquarters": "Parsippany, NJ",
+      "state": "NJ"
+    },
+    {
+      "rank": 119,
+      "company": "Northwestern Mutual",
+      "industry": "Insurance",
+      "revenueMillions": 35982,
+      "employees": 7800,
+      "headquarters": "Milwaukee, WI",
+      "state": "WI"
+    },
+    {
+      "rank": 120,
+      "company": "Philip Morris International",
+      "industry": "Tobacco",
+      "revenueMillions": 35612,
+      "employees": 82700,
+      "headquarters": "Stamford, CT",
+      "state": "CT"
+    },
+    {
+      "rank": 121,
+      "company": "Nucor",
+      "industry": "Metals / Steel",
+      "revenueMillions": 35351,
+      "employees": 31400,
+      "headquarters": "Charlotte, NC",
+      "state": "NC"
+    },
+    {
+      "rank": 122,
+      "company": "Jabil",
+      "industry": "Technology Manufacturing",
+      "revenueMillions": 34726,
+      "employees": 195000,
+      "headquarters": "St. Petersburg, FL",
+      "state": "FL"
+    },
+    {
+      "rank": 123,
+      "company": "PACCAR",
+      "industry": "Automotive / Trucks",
+      "revenueMillions": 33671,
+      "employees": 34200,
+      "headquarters": "Bellevue, WA",
+      "state": "WA"
+    },
+    {
+      "rank": 124,
+      "company": "MassMutual",
+      "industry": "Insurance",
+      "revenueMillions": 33514,
+      "employees": 12000,
+      "headquarters": "Springfield, MA",
+      "state": "MA"
+    },
+    {
+      "rank": 125,
+      "company": "Cummins",
+      "industry": "Industrial Machinery",
+      "revenueMillions": 33428,
+      "employees": 75500,
+      "headquarters": "Columbus, IN",
+      "state": "IN"
+    },
+    {
+      "rank": 126,
+      "company": "Amgen",
+      "industry": "Pharmaceuticals / Biotech",
+      "revenueMillions": 33282,
+      "employees": 27000,
+      "headquarters": "Thousand Oaks, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 127,
+      "company": "Medtronic",
+      "industry": "Healthcare / Medical Devices",
+      "revenueMillions": 32364,
+      "employees": 95000,
+      "headquarters": "Minneapolis, MN",
+      "state": "MN"
+    },
+    {
+      "rank": 128,
+      "company": "3M",
+      "industry": "Industrial Conglomerate",
+      "revenueMillions": 32184,
+      "employees": 85000,
+      "headquarters": "St. Paul, MN",
+      "state": "MN"
+    },
+    {
+      "rank": 129,
+      "company": "Dollar Tree",
+      "industry": "Retail",
+      "revenueMillions": 31254,
+      "employees": 220000,
+      "headquarters": "Chesapeake, VA",
+      "state": "VA"
+    },
+    {
+      "rank": 130,
+      "company": "GE Vernova",
+      "industry": "Energy Technology",
+      "revenueMillions": 31078,
+      "employees": 80000,
+      "headquarters": "Cambridge, MA",
+      "state": "MA"
+    },
+    {
+      "rank": 131,
+      "company": "Arrow Electronics",
+      "industry": "Technology Distribution",
+      "revenueMillions": 30844,
+      "employees": 22400,
+      "headquarters": "Centennial, CO",
+      "state": "CO"
+    },
+    {
+      "rank": 132,
+      "company": "Hewlett Packard Enterprise",
+      "industry": "Technology",
+      "revenueMillions": 30129,
+      "employees": 62000,
+      "headquarters": "Spring, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 133,
+      "company": "Duke Energy",
+      "industry": "Utilities",
+      "revenueMillions": 29891,
+      "employees": 27617,
+      "headquarters": "Charlotte, NC",
+      "state": "NC"
+    },
+    {
+      "rank": 134,
+      "company": "HF Sinclair",
+      "industry": "Energy",
+      "revenueMillions": 29622,
+      "employees": 6500,
+      "headquarters": "Dallas, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 135,
+      "company": "Hartford Financial Services",
+      "industry": "Insurance",
+      "revenueMillions": 28949,
+      "employees": 19700,
+      "headquarters": "Hartford, CT",
+      "state": "CT"
+    },
+    {
+      "rank": 136,
+      "company": "Baker Hughes",
+      "industry": "Energy Services",
+      "revenueMillions": 28504,
+      "employees": 57000,
+      "headquarters": "Houston, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 137,
+      "company": "Gilead Sciences",
+      "industry": "Pharmaceuticals / Biotech",
+      "revenueMillions": 28392,
+      "employees": 18000,
+      "headquarters": "Foster City, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 138,
+      "company": "Kraft Heinz",
+      "industry": "Consumer Goods",
+      "revenueMillions": 27424,
+      "employees": 36000,
+      "headquarters": "Chicago, IL",
+      "state": "IL"
+    },
+    {
+      "rank": 139,
+      "company": "Johnson Controls International",
+      "industry": "Industrial Technology",
+      "revenueMillions": 27400,
+      "employees": 100000,
+      "headquarters": "Cork, Ireland (US operations: Milwaukee, WI)",
+      "state": "WI"
+    },
+    {
+      "rank": 140,
+      "company": "Applied Materials",
+      "industry": "Technology",
+      "revenueMillions": 27176,
+      "employees": 35400,
+      "headquarters": "Santa Clara, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 141,
+      "company": "Altria Group",
+      "industry": "Tobacco",
+      "revenueMillions": 26642,
+      "employees": 6000,
+      "headquarters": "Richmond, VA",
+      "state": "VA"
+    },
+    {
+      "rank": 142,
+      "company": "Occidental Petroleum",
+      "industry": "Energy",
+      "revenueMillions": 26311,
+      "employees": 12100,
+      "headquarters": "Houston, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 143,
+      "company": "Flex",
+      "industry": "Technology Manufacturing",
+      "revenueMillions": 26196,
+      "employees": 171000,
+      "headquarters": "Austin, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 144,
+      "company": "Constellation Energy",
+      "industry": "Utilities",
+      "revenueMillions": 25398,
+      "employees": 13300,
+      "headquarters": "Baltimore, MD",
+      "state": "MD"
+    },
+    {
+      "rank": 145,
+      "company": "Micron Technology",
+      "industry": "Technology",
+      "revenueMillions": 25111,
+      "employees": 48000,
+      "headquarters": "Boise, ID",
+      "state": "ID"
+    },
+    {
+      "rank": 146,
+      "company": "Ferguson Enterprises",
+      "industry": "Industrial Distribution",
+      "revenueMillions": 24976,
+      "employees": 36000,
+      "headquarters": "Newport News, VA",
+      "state": "VA"
+    },
+    {
+      "rank": 147,
+      "company": "Southern Company",
+      "industry": "Utilities",
+      "revenueMillions": 24865,
+      "employees": 27000,
+      "headquarters": "Atlanta, GA",
+      "state": "GA"
+    },
+    {
+      "rank": 148,
+      "company": "NextEra Energy",
+      "industry": "Utilities",
+      "revenueMillions": 24723,
+      "employees": 16800,
+      "headquarters": "Juno Beach, FL",
+      "state": "FL"
+    },
+    {
+      "rank": 149,
+      "company": "US Bancorp",
+      "industry": "Financial Services",
+      "revenueMillions": 24656,
+      "employees": 72000,
+      "headquarters": "Minneapolis, MN",
+      "state": "MN"
+    },
+    {
+      "rank": 150,
+      "company": "Danaher",
+      "industry": "Life Sciences / Industrials",
+      "revenueMillions": 24575,
+      "employees": 63000,
+      "headquarters": "Washington, DC",
+      "state": "DC"
+    },
+    {
+      "rank": 151,
+      "company": "Eaton",
+      "industry": "Industrial Machinery",
+      "revenueMillions": 24310,
+      "employees": 92000,
+      "headquarters": "Dublin, Ireland (US HQ: Beachwood, OH)",
+      "state": "OH"
+    },
+    {
+      "rank": 152,
+      "company": "Macy's",
+      "industry": "Retail",
+      "revenueMillions": 24101,
+      "employees": 86000,
+      "headquarters": "New York, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 153,
+      "company": "World Kinect",
+      "industry": "Energy Distribution",
+      "revenueMillions": 23962,
+      "employees": 4400,
+      "headquarters": "Miami, FL",
+      "state": "FL"
+    },
+    {
+      "rank": 154,
+      "company": "Halliburton",
+      "industry": "Energy Services",
+      "revenueMillions": 23091,
+      "employees": 48000,
+      "headquarters": "Houston, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 155,
+      "company": "AMD",
+      "industry": "Technology",
+      "revenueMillions": 22680,
+      "employees": 26000,
+      "headquarters": "Santa Clara, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 156,
+      "company": "Stryker",
+      "industry": "Healthcare / Medical Devices",
+      "revenueMillions": 22595,
+      "employees": 52000,
+      "headquarters": "Kalamazoo, MI",
+      "state": "MI"
+    },
+    {
+      "rank": 157,
+      "company": "ONEOK",
+      "industry": "Energy",
+      "revenueMillions": 22499,
+      "employees": 5600,
+      "headquarters": "Tulsa, OK",
+      "state": "OK"
+    },
+    {
+      "rank": 158,
+      "company": "Exelon",
+      "industry": "Utilities",
+      "revenueMillions": 22345,
+      "employees": 31400,
+      "headquarters": "Chicago, IL",
+      "state": "IL"
+    },
+    {
+      "rank": 159,
+      "company": "Carrier Global",
+      "industry": "Industrial Technology",
+      "revenueMillions": 22180,
+      "employees": 52000,
+      "headquarters": "Palm Beach Gardens, FL",
+      "state": "FL"
+    },
+    {
+      "rank": 160,
+      "company": "L3Harris Technologies",
+      "industry": "Aerospace / Defense",
+      "revenueMillions": 21135,
+      "employees": 53000,
+      "headquarters": "Melbourne, FL",
+      "state": "FL"
+    },
+    {
+      "rank": 161,
+      "company": "CDW",
+      "industry": "Technology Distribution",
+      "revenueMillions": 20916,
+      "employees": 15100,
+      "headquarters": "Lincolnshire, IL",
+      "state": "IL"
+    },
+    {
+      "rank": 162,
+      "company": "Ross Stores",
+      "industry": "Retail",
+      "revenueMillions": 20855,
+      "employees": 99800,
+      "headquarters": "Dublin, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 163,
+      "company": "Tenet Healthcare",
+      "industry": "Healthcare",
+      "revenueMillions": 20647,
+      "employees": 125000,
+      "headquarters": "Dallas, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 164,
+      "company": "Aflac",
+      "industry": "Insurance",
+      "revenueMillions": 20608,
+      "employees": 12600,
+      "headquarters": "Columbus, GA",
+      "state": "GA"
+    },
+    {
+      "rank": 165,
+      "company": "Parker Hannifin",
+      "industry": "Industrial Machinery",
+      "revenueMillions": 20545,
+      "employees": 63200,
+      "headquarters": "Cleveland, OH",
+      "state": "OH"
+    },
+    {
+      "rank": 166,
+      "company": "Truist Financial",
+      "industry": "Financial Services",
+      "revenueMillions": 20468,
+      "employees": 50000,
+      "headquarters": "Charlotte, NC",
+      "state": "NC"
+    },
+    {
+      "rank": 167,
+      "company": "PNC Financial Services",
+      "industry": "Financial Services",
+      "revenueMillions": 20298,
+      "employees": 54000,
+      "headquarters": "Pittsburgh, PA",
+      "state": "PA"
+    },
+    {
+      "rank": 168,
+      "company": "General Mills",
+      "industry": "Consumer Goods",
+      "revenueMillions": 20094,
+      "employees": 34000,
+      "headquarters": "Minneapolis, MN",
+      "state": "MN"
+    },
+    {
+      "rank": 169,
+      "company": "BJ's Wholesale Club",
+      "industry": "Retail",
+      "revenueMillions": 20095,
+      "employees": 34000,
+      "headquarters": "Marlborough, MA",
+      "state": "MA"
+    },
+    {
+      "rank": 170,
+      "company": "Becton Dickinson",
+      "industry": "Healthcare / Medical Devices",
+      "revenueMillions": 20248,
+      "employees": 75000,
+      "headquarters": "Franklin Lakes, NJ",
+      "state": "NJ"
+    },
+    {
+      "rank": 171,
+      "company": "Colgate-Palmolive",
+      "industry": "Consumer Goods",
+      "revenueMillions": 19457,
+      "employees": 34000,
+      "headquarters": "New York, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 172,
+      "company": "International Paper",
+      "industry": "Paper / Packaging",
+      "revenueMillions": 19419,
+      "employees": 39000,
+      "headquarters": "Memphis, TN",
+      "state": "TN"
+    },
+    {
+      "rank": 173,
+      "company": "Targa Resources",
+      "industry": "Energy",
+      "revenueMillions": 19398,
+      "employees": 4700,
+      "headquarters": "Houston, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 174,
+      "company": "Freeport-McMoRan",
+      "industry": "Mining / Metals",
+      "revenueMillions": 23375,
+      "employees": 27500,
+      "headquarters": "Phoenix, AZ",
+      "state": "AZ"
+    },
+    {
+      "rank": 175,
+      "company": "Waste Management",
+      "industry": "Environmental Services",
+      "revenueMillions": 21175,
+      "employees": 48000,
+      "headquarters": "Houston, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 176,
+      "company": "Charles Schwab",
+      "industry": "Financial Services",
+      "revenueMillions": 19750,
+      "employees": 36500,
+      "headquarters": "Westlake, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 177,
+      "company": "Emerson Electric",
+      "industry": "Industrial Technology",
+      "revenueMillions": 17489,
+      "employees": 67000,
+      "headquarters": "St. Louis, MO",
+      "state": "MO"
+    },
+    {
+      "rank": 178,
+      "company": "PPG Industries",
+      "industry": "Chemicals / Materials",
+      "revenueMillions": 18110,
+      "employees": 50000,
+      "headquarters": "Pittsburgh, PA",
+      "state": "PA"
+    },
+    {
+      "rank": 179,
+      "company": "Steel Dynamics",
+      "industry": "Metals / Steel",
+      "revenueMillions": 18189,
+      "employees": 12800,
+      "headquarters": "Fort Wayne, IN",
+      "state": "IN"
+    },
+    {
+      "rank": 180,
+      "company": "Pilgrim's Pride",
+      "industry": "Food / Agriculture",
+      "revenueMillions": 18174,
+      "employees": 60000,
+      "headquarters": "Greeley, CO",
+      "state": "CO"
+    },
+    {
+      "rank": 181,
+      "company": "AutoZone",
+      "industry": "Retail",
+      "revenueMillions": 18491,
+      "employees": 119000,
+      "headquarters": "Memphis, TN",
+      "state": "TN"
+    },
+    {
+      "rank": 182,
+      "company": "Trane Technologies",
+      "industry": "Industrial Machinery",
+      "revenueMillions": 18885,
+      "employees": 40000,
+      "headquarters": "Davidson, NC",
+      "state": "NC"
+    },
+    {
+      "rank": 183,
+      "company": "Illinois Tool Works",
+      "industry": "Industrial Conglomerate",
+      "revenueMillions": 16107,
+      "employees": 46000,
+      "headquarters": "Glenview, IL",
+      "state": "IL"
+    },
+    {
+      "rank": 184,
+      "company": "D.R. Horton",
+      "industry": "Homebuilding",
+      "revenueMillions": 36797,
+      "employees": 13780,
+      "headquarters": "Arlington, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 185,
+      "company": "Lennar",
+      "industry": "Homebuilding",
+      "revenueMillions": 35405,
+      "employees": 11690,
+      "headquarters": "Miami, FL",
+      "state": "FL"
+    },
+    {
+      "rank": 186,
+      "company": "Southwest Airlines",
+      "industry": "Airlines",
+      "revenueMillions": 17932,
+      "employees": 74000,
+      "headquarters": "Dallas, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 187,
+      "company": "Raytheon Technologies",
+      "industry": "Aerospace / Defense",
+      "revenueMillions": 17800,
+      "employees": 55000,
+      "headquarters": "Waltham, MA",
+      "state": "MA"
+    },
+    {
+      "rank": 188,
+      "company": "Cheniere Energy",
+      "industry": "Energy",
+      "revenueMillions": 17591,
+      "employees": 1900,
+      "headquarters": "Houston, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 189,
+      "company": "Markel Group",
+      "industry": "Insurance",
+      "revenueMillions": 17310,
+      "employees": 21400,
+      "headquarters": "Glen Allen, VA",
+      "state": "VA"
+    },
+    {
+      "rank": 190,
+      "company": "Whirlpool",
+      "industry": "Consumer Goods",
+      "revenueMillions": 16934,
+      "employees": 59000,
+      "headquarters": "Benton Harbor, MI",
+      "state": "MI"
+    },
+    {
+      "rank": 191,
+      "company": "Leidos",
+      "industry": "Technology / Defense",
+      "revenueMillions": 16743,
+      "employees": 48000,
+      "headquarters": "Reston, VA",
+      "state": "VA"
+    },
+    {
+      "rank": 192,
+      "company": "Principal Financial Group",
+      "industry": "Financial Services",
+      "revenueMillions": 16497,
+      "employees": 20000,
+      "headquarters": "Des Moines, IA",
+      "state": "IA"
+    },
+    {
+      "rank": 193,
+      "company": "Texas Instruments",
+      "industry": "Technology",
+      "revenueMillions": 16321,
+      "employees": 34000,
+      "headquarters": "Dallas, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 194,
+      "company": "Vistra",
+      "industry": "Utilities",
+      "revenueMillions": 16314,
+      "employees": 5000,
+      "headquarters": "Irving, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 195,
+      "company": "Sempra",
+      "industry": "Utilities",
+      "revenueMillions": 16268,
+      "employees": 17200,
+      "headquarters": "San Diego, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 196,
+      "company": "O'Reilly Automotive",
+      "industry": "Retail",
+      "revenueMillions": 16214,
+      "employees": 85000,
+      "headquarters": "Springfield, MO",
+      "state": "MO"
+    },
+    {
+      "rank": 197,
+      "company": "Boston Scientific",
+      "industry": "Healthcare / Medical Devices",
+      "revenueMillions": 16085,
+      "employees": 48000,
+      "headquarters": "Marlborough, MA",
+      "state": "MA"
+    },
+    {
+      "rank": 198,
+      "company": "Dominion Energy",
+      "industry": "Utilities",
+      "revenueMillions": 15021,
+      "employees": 17200,
+      "headquarters": "Richmond, VA",
+      "state": "VA"
+    },
+    {
+      "rank": 199,
+      "company": "United Natural Foods",
+      "industry": "Food Distribution",
+      "revenueMillions": 30974,
+      "employees": 29000,
+      "headquarters": "Providence, RI",
+      "state": "RI"
+    },
+    {
+      "rank": 200,
+      "company": "Global Partners",
+      "industry": "Energy Distribution",
+      "revenueMillions": 17256,
+      "employees": 3600,
+      "headquarters": "Waltham, MA",
+      "state": "MA"
+    },
+    {
+      "rank": 201,
+      "company": "American Electric Power",
+      "industry": "Utilities",
+      "revenueMillions": 19600,
+      "employees": 16800,
+      "headquarters": "Columbus, OH",
+      "state": "OH"
+    },
+    {
+      "rank": 202,
+      "company": "Kimberly-Clark",
+      "industry": "Consumer Goods",
+      "revenueMillions": 19841,
+      "employees": 43000,
+      "headquarters": "Irving, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 203,
+      "company": "WestRock",
+      "industry": "Paper / Packaging",
+      "revenueMillions": 19345,
+      "employees": 56600,
+      "headquarters": "Atlanta, GA",
+      "state": "GA"
+    },
+    {
+      "rank": 204,
+      "company": "Baxter International",
+      "industry": "Healthcare",
+      "revenueMillions": 15154,
+      "employees": 46000,
+      "headquarters": "Deerfield, IL",
+      "state": "IL"
+    },
+    {
+      "rank": 205,
+      "company": "Textron",
+      "industry": "Aerospace / Defense",
+      "revenueMillions": 14237,
+      "employees": 35000,
+      "headquarters": "Providence, RI",
+      "state": "RI"
+    },
+    {
+      "rank": 206,
+      "company": "Genuine Parts",
+      "industry": "Automotive Parts",
+      "revenueMillions": 23083,
+      "employees": 61000,
+      "headquarters": "Atlanta, GA",
+      "state": "GA"
+    },
+    {
+      "rank": 207,
+      "company": "Estee Lauder",
+      "industry": "Consumer Goods",
+      "revenueMillions": 15617,
+      "employees": 62000,
+      "headquarters": "New York, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 208,
+      "company": "CBRE Group",
+      "industry": "Real Estate Services",
+      "revenueMillions": 35043,
+      "employees": 130000,
+      "headquarters": "Dallas, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 209,
+      "company": "Republic Services",
+      "industry": "Environmental Services",
+      "revenueMillions": 15949,
+      "employees": 42000,
+      "headquarters": "Phoenix, AZ",
+      "state": "AZ"
+    },
+    {
+      "rank": 210,
+      "company": "Corteva Agriscience",
+      "industry": "Agriculture",
+      "revenueMillions": 16544,
+      "employees": 21000,
+      "headquarters": "Indianapolis, IN",
+      "state": "IN"
+    },
+    {
+      "rank": 211,
+      "company": "NRG Energy",
+      "industry": "Utilities",
+      "revenueMillions": 15422,
+      "employees": 7300,
+      "headquarters": "Houston, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 212,
+      "company": "Loews",
+      "industry": "Conglomerate",
+      "revenueMillions": 16038,
+      "employees": 11200,
+      "headquarters": "New York, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 213,
+      "company": "Devon Energy",
+      "industry": "Energy",
+      "revenueMillions": 15183,
+      "employees": 3200,
+      "headquarters": "Oklahoma City, OK",
+      "state": "OK"
+    },
+    {
+      "rank": 214,
+      "company": "Marsh McLennan",
+      "industry": "Professional Services",
+      "revenueMillions": 23613,
+      "employees": 85000,
+      "headquarters": "New York, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 215,
+      "company": "DTE Energy",
+      "industry": "Utilities",
+      "revenueMillions": 12880,
+      "employees": 10000,
+      "headquarters": "Detroit, MI",
+      "state": "MI"
+    },
+    {
+      "rank": 216,
+      "company": "Automatic Data Processing",
+      "industry": "Technology",
+      "revenueMillions": 19768,
+      "employees": 63000,
+      "headquarters": "Roseland, NJ",
+      "state": "NJ"
+    },
+    {
+      "rank": 217,
+      "company": "Ecolab",
+      "industry": "Chemicals",
+      "revenueMillions": 15781,
+      "employees": 48000,
+      "headquarters": "St. Paul, MN",
+      "state": "MN"
+    },
+    {
+      "rank": 218,
+      "company": "Xcel Energy",
+      "industry": "Utilities",
+      "revenueMillions": 14160,
+      "employees": 11300,
+      "headquarters": "Minneapolis, MN",
+      "state": "MN"
+    },
+    {
+      "rank": 219,
+      "company": "Conagra Brands",
+      "industry": "Consumer Goods",
+      "revenueMillions": 11556,
+      "employees": 18600,
+      "headquarters": "Chicago, IL",
+      "state": "IL"
+    },
+    {
+      "rank": 220,
+      "company": "Henry Schein",
+      "industry": "Healthcare",
+      "revenueMillions": 12742,
+      "employees": 24500,
+      "headquarters": "Melville, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 221,
+      "company": "Lincoln National",
+      "industry": "Insurance",
+      "revenueMillions": 14908,
+      "employees": 10900,
+      "headquarters": "Radnor, PA",
+      "state": "PA"
+    },
+    {
+      "rank": 222,
+      "company": "Consolidated Edison",
+      "industry": "Utilities",
+      "revenueMillions": 14917,
+      "employees": 13600,
+      "headquarters": "New York, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 223,
+      "company": "Reinsurance Group of America",
+      "industry": "Insurance",
+      "revenueMillions": 21088,
+      "employees": 4400,
+      "headquarters": "Chesterfield, MO",
+      "state": "MO"
+    },
+    {
+      "rank": 224,
+      "company": "Sherwin-Williams",
+      "industry": "Chemicals / Materials",
+      "revenueMillions": 23050,
+      "employees": 64088,
+      "headquarters": "Cleveland, OH",
+      "state": "OH"
+    },
+    {
+      "rank": 225,
+      "company": "Penske Automotive Group",
+      "industry": "Automotive Retail",
+      "revenueMillions": 29408,
+      "employees": 29000,
+      "headquarters": "Bloomfield Hills, MI",
+      "state": "MI"
+    },
+    {
+      "rank": 226,
+      "company": "Celanese",
+      "industry": "Chemicals",
+      "revenueMillions": 10943,
+      "employees": 13700,
+      "headquarters": "Irving, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 227,
+      "company": "Northrop Grumman Innovation Systems",
+      "industry": "Aerospace",
+      "revenueMillions": 14200,
+      "employees": 32000,
+      "headquarters": "Dulles, VA",
+      "state": "VA"
+    },
+    {
+      "rank": 228,
+      "company": "Quanta Services",
+      "industry": "Engineering / Construction",
+      "revenueMillions": 23653,
+      "employees": 55000,
+      "headquarters": "Houston, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 229,
+      "company": "WR Berkley",
+      "industry": "Insurance",
+      "revenueMillions": 13639,
+      "employees": 8606,
+      "headquarters": "Greenwich, CT",
+      "state": "CT"
+    },
+    {
+      "rank": 230,
+      "company": "Starbucks",
+      "industry": "Food / Beverage",
+      "revenueMillions": 36176,
+      "employees": 381000,
+      "headquarters": "Seattle, WA",
+      "state": "WA"
+    },
+    {
+      "rank": 231,
+      "company": "Gap",
+      "industry": "Retail",
+      "revenueMillions": 15616,
+      "employees": 82300,
+      "headquarters": "San Francisco, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 232,
+      "company": "Public Service Enterprise Group",
+      "industry": "Utilities",
+      "revenueMillions": 11449,
+      "employees": 13000,
+      "headquarters": "Newark, NJ",
+      "state": "NJ"
+    },
+    {
+      "rank": 233,
+      "company": "Edison International",
+      "industry": "Utilities",
+      "revenueMillions": 17594,
+      "employees": 14100,
+      "headquarters": "Rosemead, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 234,
+      "company": "First Energy",
+      "industry": "Utilities",
+      "revenueMillions": 13029,
+      "employees": 12200,
+      "headquarters": "Akron, OH",
+      "state": "OH"
+    },
+    {
+      "rank": 235,
+      "company": "Entergy",
+      "industry": "Utilities",
+      "revenueMillions": 11661,
+      "employees": 11500,
+      "headquarters": "New Orleans, LA",
+      "state": "LA"
+    },
+    {
+      "rank": 236,
+      "company": "Nordstrom",
+      "industry": "Retail",
+      "revenueMillions": 14894,
+      "employees": 57000,
+      "headquarters": "Seattle, WA",
+      "state": "WA"
+    },
+    {
+      "rank": 237,
+      "company": "Molson Coors Beverage",
+      "industry": "Consumer Goods",
+      "revenueMillions": 11700,
+      "employees": 16900,
+      "headquarters": "Chicago, IL",
+      "state": "IL"
+    },
+    {
+      "rank": 238,
+      "company": "Unum Group",
+      "industry": "Insurance",
+      "revenueMillions": 13044,
+      "employees": 10400,
+      "headquarters": "Chattanooga, TN",
+      "state": "TN"
+    },
+    {
+      "rank": 239,
+      "company": "Kinder Morgan",
+      "industry": "Energy",
+      "revenueMillions": 15291,
+      "employees": 11000,
+      "headquarters": "Houston, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 240,
+      "company": "Corning",
+      "industry": "Technology / Materials",
+      "revenueMillions": 12588,
+      "employees": 48400,
+      "headquarters": "Corning, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 241,
+      "company": "Pacific Life",
+      "industry": "Insurance",
+      "revenueMillions": 13400,
+      "employees": 3400,
+      "headquarters": "Newport Beach, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 242,
+      "company": "Lam Research",
+      "industry": "Technology",
+      "revenueMillions": 15813,
+      "employees": 17700,
+      "headquarters": "Fremont, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 243,
+      "company": "Interpublic Group",
+      "industry": "Advertising",
+      "revenueMillions": 10874,
+      "employees": 57400,
+      "headquarters": "New York, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 244,
+      "company": "Otis Worldwide",
+      "industry": "Industrial Machinery",
+      "revenueMillions": 14213,
+      "employees": 71000,
+      "headquarters": "Farmington, CT",
+      "state": "CT"
+    },
+    {
+      "rank": 245,
+      "company": "Weyerhaeuser",
+      "industry": "Real Estate / Timber",
+      "revenueMillions": 7675,
+      "employees": 9900,
+      "headquarters": "Seattle, WA",
+      "state": "WA"
+    },
+    {
+      "rank": 246,
+      "company": "Constellation Brands",
+      "industry": "Consumer Goods",
+      "revenueMillions": 10204,
+      "employees": 10000,
+      "headquarters": "Victor, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 247,
+      "company": "Ally Financial",
+      "industry": "Financial Services",
+      "revenueMillions": 12543,
+      "employees": 11300,
+      "headquarters": "Detroit, MI",
+      "state": "MI"
+    },
+    {
+      "rank": 248,
+      "company": "Murphy USA",
+      "industry": "Retail / Energy",
+      "revenueMillions": 22221,
+      "employees": 16000,
+      "headquarters": "El Dorado, AR",
+      "state": "AR"
+    },
+    {
+      "rank": 249,
+      "company": "Lear",
+      "industry": "Automotive Parts",
+      "revenueMillions": 23525,
+      "employees": 173000,
+      "headquarters": "Southfield, MI",
+      "state": "MI"
+    },
+    {
+      "rank": 250,
+      "company": "BorgWarner",
+      "industry": "Automotive Parts",
+      "revenueMillions": 14195,
+      "employees": 49000,
+      "headquarters": "Auburn Hills, MI",
+      "state": "MI"
+    },
+    {
+      "rank": 251,
+      "company": "Ball",
+      "industry": "Packaging",
+      "revenueMillions": 13816,
+      "employees": 21000,
+      "headquarters": "Westminster, CO",
+      "state": "CO"
+    },
+    {
+      "rank": 252,
+      "company": "Western Digital",
+      "industry": "Technology",
+      "revenueMillions": 13038,
+      "employees": 51000,
+      "headquarters": "San Jose, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 253,
+      "company": "Tractor Supply",
+      "industry": "Retail",
+      "revenueMillions": 14880,
+      "employees": 50000,
+      "headquarters": "Brentwood, TN",
+      "state": "TN"
+    },
+    {
+      "rank": 254,
+      "company": "Williams Companies",
+      "industry": "Energy",
+      "revenueMillions": 10679,
+      "employees": 6600,
+      "headquarters": "Tulsa, OK",
+      "state": "OK"
+    },
+    {
+      "rank": 255,
+      "company": "Regeneron Pharmaceuticals",
+      "industry": "Pharmaceuticals / Biotech",
+      "revenueMillions": 14174,
+      "employees": 14000,
+      "headquarters": "Tarrytown, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 256,
+      "company": "Howmet Aerospace",
+      "industry": "Aerospace",
+      "revenueMillions": 7417,
+      "employees": 26000,
+      "headquarters": "Pittsburgh, PA",
+      "state": "PA"
+    },
+    {
+      "rank": 257,
+      "company": "Owens & Minor",
+      "industry": "Healthcare",
+      "revenueMillions": 10710,
+      "employees": 20000,
+      "headquarters": "Mechanicsville, VA",
+      "state": "VA"
+    },
+    {
+      "rank": 258,
+      "company": "Jacobs Solutions",
+      "industry": "Engineering / Construction",
+      "revenueMillions": 16323,
+      "employees": 60000,
+      "headquarters": "Dallas, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 259,
+      "company": "CenterPoint Energy",
+      "industry": "Utilities",
+      "revenueMillions": 9376,
+      "employees": 9100,
+      "headquarters": "Houston, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 260,
+      "company": "Packaging Corp of America",
+      "industry": "Paper / Packaging",
+      "revenueMillions": 7881,
+      "employees": 15800,
+      "headquarters": "Lake Forest, IL",
+      "state": "IL"
+    },
+    {
+      "rank": 261,
+      "company": "Hormel Foods",
+      "industry": "Consumer Goods",
+      "revenueMillions": 11921,
+      "employees": 20000,
+      "headquarters": "Austin, MN",
+      "state": "MN"
+    },
+    {
+      "rank": 262,
+      "company": "Amphenol",
+      "industry": "Technology",
+      "revenueMillions": 15221,
+      "employees": 95000,
+      "headquarters": "Wallingford, CT",
+      "state": "CT"
+    },
+    {
+      "rank": 263,
+      "company": "Live Nation Entertainment",
+      "industry": "Media / Entertainment",
+      "revenueMillions": 23155,
+      "employees": 12500,
+      "headquarters": "Beverly Hills, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 264,
+      "company": "Fidelity National Information Services",
+      "industry": "Financial Technology",
+      "revenueMillions": 10131,
+      "employees": 55000,
+      "headquarters": "Jacksonville, FL",
+      "state": "FL"
+    },
+    {
+      "rank": 265,
+      "company": "Discover Financial Services",
+      "industry": "Financial Services",
+      "revenueMillions": 17505,
+      "employees": 20000,
+      "headquarters": "Riverwoods, IL",
+      "state": "IL"
+    },
+    {
+      "rank": 266,
+      "company": "Stanley Black & Decker",
+      "industry": "Industrial Machinery",
+      "revenueMillions": 14333,
+      "employees": 51000,
+      "headquarters": "New Britain, CT",
+      "state": "CT"
+    },
+    {
+      "rank": 267,
+      "company": "Ameren",
+      "industry": "Utilities",
+      "revenueMillions": 8633,
+      "employees": 9000,
+      "headquarters": "St. Louis, MO",
+      "state": "MO"
+    },
+    {
+      "rank": 268,
+      "company": "Cigna Investment Management",
+      "industry": "Financial Services",
+      "revenueMillions": 12200,
+      "employees": 8400,
+      "headquarters": "Bloomfield, CT",
+      "state": "CT"
+    },
+    {
+      "rank": 269,
+      "company": "Paramount Global",
+      "industry": "Media / Entertainment",
+      "revenueMillions": 28856,
+      "employees": 23610,
+      "headquarters": "New York, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 270,
+      "company": "AES Corporation",
+      "industry": "Utilities",
+      "revenueMillions": 12064,
+      "employees": 8200,
+      "headquarters": "Arlington, VA",
+      "state": "VA"
+    },
+    {
+      "rank": 271,
+      "company": "Booking Holdings",
+      "industry": "Technology / Travel",
+      "revenueMillions": 23738,
+      "employees": 23800,
+      "headquarters": "Norwalk, CT",
+      "state": "CT"
+    },
+    {
+      "rank": 272,
+      "company": "Visa",
+      "industry": "Financial Services",
+      "revenueMillions": 35926,
+      "employees": 30300,
+      "headquarters": "San Francisco, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 273,
+      "company": "Mastercard",
+      "industry": "Financial Services",
+      "revenueMillions": 28167,
+      "employees": 33400,
+      "headquarters": "Purchase, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 274,
+      "company": "WEC Energy Group",
+      "industry": "Utilities",
+      "revenueMillions": 8765,
+      "employees": 7200,
+      "headquarters": "Milwaukee, WI",
+      "state": "WI"
+    },
+    {
+      "rank": 275,
+      "company": "Hershey",
+      "industry": "Consumer Goods",
+      "revenueMillions": 11196,
+      "employees": 19475,
+      "headquarters": "Hershey, PA",
+      "state": "PA"
+    },
+    {
+      "rank": 276,
+      "company": "United States Steel",
+      "industry": "Metals / Steel",
+      "revenueMillions": 15569,
+      "employees": 22740,
+      "headquarters": "Pittsburgh, PA",
+      "state": "PA"
+    },
+    {
+      "rank": 277,
+      "company": "ManpowerGroup",
+      "industry": "Professional Services",
+      "revenueMillions": 18833,
+      "employees": 25000,
+      "headquarters": "Milwaukee, WI",
+      "state": "WI"
+    },
+    {
+      "rank": 278,
+      "company": "NiSource",
+      "industry": "Utilities",
+      "revenueMillions": 7440,
+      "employees": 7400,
+      "headquarters": "Merrillville, IN",
+      "state": "IN"
+    },
+    {
+      "rank": 279,
+      "company": "Fluor",
+      "industry": "Engineering / Construction",
+      "revenueMillions": 16098,
+      "employees": 29000,
+      "headquarters": "Irving, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 280,
+      "company": "Universal Health Services",
+      "industry": "Healthcare",
+      "revenueMillions": 15318,
+      "employees": 96000,
+      "headquarters": "King of Prussia, PA",
+      "state": "PA"
+    },
+    {
+      "rank": 281,
+      "company": "Kenvue",
+      "industry": "Consumer Goods",
+      "revenueMillions": 15434,
+      "employees": 22000,
+      "headquarters": "Skillman, NJ",
+      "state": "NJ"
+    },
+    {
+      "rank": 282,
+      "company": "KLA Corporation",
+      "industry": "Technology",
+      "revenueMillions": 10850,
+      "employees": 15000,
+      "headquarters": "Milpitas, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 283,
+      "company": "Synchrony Financial",
+      "industry": "Financial Services",
+      "revenueMillions": 12418,
+      "employees": 20000,
+      "headquarters": "Stamford, CT",
+      "state": "CT"
+    },
+    {
+      "rank": 284,
+      "company": "Aon",
+      "industry": "Professional Services",
+      "revenueMillions": 15700,
+      "employees": 50000,
+      "headquarters": "London, UK (US ops: Chicago, IL)",
+      "state": "IL"
+    },
+    {
+      "rank": 285,
+      "company": "Mohawk Industries",
+      "industry": "Manufacturing",
+      "revenueMillions": 10983,
+      "employees": 34600,
+      "headquarters": "Calhoun, GA",
+      "state": "GA"
+    },
+    {
+      "rank": 286,
+      "company": "Expeditors International",
+      "industry": "Transportation / Logistics",
+      "revenueMillions": 10157,
+      "employees": 18000,
+      "headquarters": "Seattle, WA",
+      "state": "WA"
+    },
+    {
+      "rank": 287,
+      "company": "Community Health Systems",
+      "industry": "Healthcare",
+      "revenueMillions": 12376,
+      "employees": 71000,
+      "headquarters": "Franklin, TN",
+      "state": "TN"
+    },
+    {
+      "rank": 288,
+      "company": "Darden Restaurants",
+      "industry": "Food / Beverage",
+      "revenueMillions": 11389,
+      "employees": 191000,
+      "headquarters": "Orlando, FL",
+      "state": "FL"
+    },
+    {
+      "rank": 289,
+      "company": "Campbell Soup",
+      "industry": "Consumer Goods",
+      "revenueMillions": 9636,
+      "employees": 14700,
+      "headquarters": "Camden, NJ",
+      "state": "NJ"
+    },
+    {
+      "rank": 290,
+      "company": "Eversource Energy",
+      "industry": "Utilities",
+      "revenueMillions": 11900,
+      "employees": 9500,
+      "headquarters": "Hartford, CT",
+      "state": "CT"
+    },
+    {
+      "rank": 291,
+      "company": "Biogen",
+      "industry": "Pharmaceuticals / Biotech",
+      "revenueMillions": 9729,
+      "employees": 7500,
+      "headquarters": "Cambridge, MA",
+      "state": "MA"
+    },
+    {
+      "rank": 292,
+      "company": "American Financial Group",
+      "industry": "Insurance",
+      "revenueMillions": 11287,
+      "employees": 10000,
+      "headquarters": "Cincinnati, OH",
+      "state": "OH"
+    },
+    {
+      "rank": 293,
+      "company": "First American Financial",
+      "industry": "Insurance",
+      "revenueMillions": 7655,
+      "employees": 19300,
+      "headquarters": "Santa Ana, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 294,
+      "company": "Motorola Solutions",
+      "industry": "Technology",
+      "revenueMillions": 10840,
+      "employees": 23400,
+      "headquarters": "Chicago, IL",
+      "state": "IL"
+    },
+    {
+      "rank": 295,
+      "company": "Warner Bros. Discovery",
+      "industry": "Media / Entertainment",
+      "revenueMillions": 39872,
+      "employees": 35700,
+      "headquarters": "New York, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 296,
+      "company": "McDonalds",
+      "industry": "Food / Beverage",
+      "revenueMillions": 25940,
+      "employees": 150000,
+      "headquarters": "Chicago, IL",
+      "state": "IL"
+    },
+    {
+      "rank": 297,
+      "company": "Altice USA",
+      "industry": "Telecommunications",
+      "revenueMillions": 9071,
+      "employees": 24600,
+      "headquarters": "Long Island City, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 298,
+      "company": "Uber Technologies",
+      "industry": "Technology / Transportation",
+      "revenueMillions": 43953,
+      "employees": 32800,
+      "headquarters": "San Francisco, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 299,
+      "company": "PayPal Holdings",
+      "industry": "Financial Technology",
+      "revenueMillions": 31048,
+      "employees": 27200,
+      "headquarters": "San Jose, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 300,
+      "company": "Encompass Health",
+      "industry": "Healthcare",
+      "revenueMillions": 5296,
+      "employees": 35000,
+      "headquarters": "Birmingham, AL",
+      "state": "AL"
+    },
+    {
+      "rank": 301,
+      "company": "Hartford Financial Services Group",
+      "industry": "Insurance",
+      "revenueMillions": 28400,
+      "employees": 18500,
+      "headquarters": "Hartford, CT",
+      "state": "CT"
+    },
+    {
+      "rank": 302,
+      "company": "Arista Networks",
+      "industry": "Technology",
+      "revenueMillions": 6690,
+      "employees": 4400,
+      "headquarters": "Santa Clara, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 303,
+      "company": "DaVita",
+      "industry": "Healthcare",
+      "revenueMillions": 12800,
+      "employees": 69000,
+      "headquarters": "Denver, CO",
+      "state": "CO"
+    },
+    {
+      "rank": 304,
+      "company": "Lumen Technologies",
+      "industry": "Telecommunications",
+      "revenueMillions": 13396,
+      "employees": 29000,
+      "headquarters": "Monroe, LA",
+      "state": "LA"
+    },
+    {
+      "rank": 305,
+      "company": "Jones Lang LaSalle",
+      "industry": "Real Estate Services",
+      "revenueMillions": 21361,
+      "employees": 105000,
+      "headquarters": "Chicago, IL",
+      "state": "IL"
+    },
+    {
+      "rank": 306,
+      "company": "Autolivery",
+      "industry": "Automotive Parts",
+      "revenueMillions": 10435,
+      "employees": 72000,
+      "headquarters": "Auburn Hills, MI",
+      "state": "MI"
+    },
+    {
+      "rank": 307,
+      "company": "DXC Technology",
+      "industry": "Technology",
+      "revenueMillions": 13296,
+      "employees": 130000,
+      "headquarters": "Ashburn, VA",
+      "state": "VA"
+    },
+    {
+      "rank": 308,
+      "company": "LPL Financial Holdings",
+      "industry": "Financial Services",
+      "revenueMillions": 12261,
+      "employees": 8400,
+      "headquarters": "San Diego, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 309,
+      "company": "Laboratory Corp of America",
+      "industry": "Healthcare",
+      "revenueMillions": 10172,
+      "employees": 82000,
+      "headquarters": "Burlington, NC",
+      "state": "NC"
+    },
+    {
+      "rank": 310,
+      "company": "Quest Diagnostics",
+      "industry": "Healthcare",
+      "revenueMillions": 9843,
+      "employees": 55000,
+      "headquarters": "Secaucus, NJ",
+      "state": "NJ"
+    },
+    {
+      "rank": 311,
+      "company": "Dana",
+      "industry": "Automotive Parts",
+      "revenueMillions": 10318,
+      "employees": 40000,
+      "headquarters": "Maumee, OH",
+      "state": "OH"
+    },
+    {
+      "rank": 312,
+      "company": "CenturyLink",
+      "industry": "Telecommunications",
+      "revenueMillions": 9190,
+      "employees": 25000,
+      "headquarters": "Monroe, LA",
+      "state": "LA"
+    },
+    {
+      "rank": 313,
+      "company": "RPM International",
+      "industry": "Chemicals / Coatings",
+      "revenueMillions": 7340,
+      "employees": 17200,
+      "headquarters": "Medina, OH",
+      "state": "OH"
+    },
+    {
+      "rank": 314,
+      "company": "Fifth Third Bancorp",
+      "industry": "Financial Services",
+      "revenueMillions": 8741,
+      "employees": 18400,
+      "headquarters": "Cincinnati, OH",
+      "state": "OH"
+    },
+    {
+      "rank": 315,
+      "company": "Omnicom Group",
+      "industry": "Advertising",
+      "revenueMillions": 15692,
+      "employees": 77300,
+      "headquarters": "New York, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 316,
+      "company": "Avis Budget Group",
+      "industry": "Transportation / Rental",
+      "revenueMillions": 11369,
+      "employees": 28000,
+      "headquarters": "Parsippany, NJ",
+      "state": "NJ"
+    },
+    {
+      "rank": 317,
+      "company": "Regions Financial",
+      "industry": "Financial Services",
+      "revenueMillions": 8230,
+      "employees": 19300,
+      "headquarters": "Birmingham, AL",
+      "state": "AL"
+    },
+    {
+      "rank": 318,
+      "company": "AECOM",
+      "industry": "Engineering / Construction",
+      "revenueMillions": 16104,
+      "employees": 47000,
+      "headquarters": "Dallas, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 319,
+      "company": "KeyCorp",
+      "industry": "Financial Services",
+      "revenueMillions": 7806,
+      "employees": 17300,
+      "headquarters": "Cleveland, OH",
+      "state": "OH"
+    },
+    {
+      "rank": 320,
+      "company": "Church & Dwight",
+      "industry": "Consumer Goods",
+      "revenueMillions": 6079,
+      "employees": 5200,
+      "headquarters": "Ewing, NJ",
+      "state": "NJ"
+    },
+    {
+      "rank": 321,
+      "company": "Westinghouse Air Brake Technologies",
+      "industry": "Industrial Machinery",
+      "revenueMillions": 10123,
+      "employees": 30000,
+      "headquarters": "Pittsburgh, PA",
+      "state": "PA"
+    },
+    {
+      "rank": 322,
+      "company": "Raymond James Financial",
+      "industry": "Financial Services",
+      "revenueMillions": 13440,
+      "employees": 19900,
+      "headquarters": "St. Petersburg, FL",
+      "state": "FL"
+    },
+    {
+      "rank": 323,
+      "company": "Williams-Sonoma",
+      "industry": "Retail",
+      "revenueMillions": 7749,
+      "employees": 22000,
+      "headquarters": "San Francisco, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 324,
+      "company": "Wynn Resorts",
+      "industry": "Hotels / Casinos",
+      "revenueMillions": 7132,
+      "employees": 34900,
+      "headquarters": "Las Vegas, NV",
+      "state": "NV"
+    },
+    {
+      "rank": 325,
+      "company": "MGM Resorts International",
+      "industry": "Hotels / Casinos",
+      "revenueMillions": 17210,
+      "employees": 72000,
+      "headquarters": "Las Vegas, NV",
+      "state": "NV"
+    },
+    {
+      "rank": 326,
+      "company": "Caesars Entertainment",
+      "industry": "Hotels / Casinos",
+      "revenueMillions": 11205,
+      "employees": 51000,
+      "headquarters": "Reno, NV",
+      "state": "NV"
+    },
+    {
+      "rank": 327,
+      "company": "Huntington Bancshares",
+      "industry": "Financial Services",
+      "revenueMillions": 7808,
+      "employees": 19700,
+      "headquarters": "Columbus, OH",
+      "state": "OH"
+    },
+    {
+      "rank": 328,
+      "company": "M&T Bank",
+      "industry": "Financial Services",
+      "revenueMillions": 8753,
+      "employees": 21900,
+      "headquarters": "Buffalo, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 329,
+      "company": "Zimmer Biomet Holdings",
+      "industry": "Healthcare / Medical Devices",
+      "revenueMillions": 7541,
+      "employees": 18000,
+      "headquarters": "Warsaw, IN",
+      "state": "IN"
+    },
+    {
+      "rank": 330,
+      "company": "Intuit",
+      "industry": "Technology",
+      "revenueMillions": 16285,
+      "employees": 18200,
+      "headquarters": "Mountain View, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 331,
+      "company": "Autodesk",
+      "industry": "Technology",
+      "revenueMillions": 5968,
+      "employees": 14300,
+      "headquarters": "San Francisco, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 332,
+      "company": "Fortive",
+      "industry": "Industrial Technology",
+      "revenueMillions": 6177,
+      "employees": 20000,
+      "headquarters": "Everett, WA",
+      "state": "WA"
+    },
+    {
+      "rank": 333,
+      "company": "Air Products & Chemicals",
+      "industry": "Chemicals",
+      "revenueMillions": 12068,
+      "employees": 23000,
+      "headquarters": "Allentown, PA",
+      "state": "PA"
+    },
+    {
+      "rank": 334,
+      "company": "Hilton Worldwide Holdings",
+      "industry": "Hotels",
+      "revenueMillions": 11220,
+      "employees": 159000,
+      "headquarters": "McLean, VA",
+      "state": "VA"
+    },
+    {
+      "rank": 335,
+      "company": "Marriott International",
+      "industry": "Hotels",
+      "revenueMillions": 23714,
+      "employees": 413700,
+      "headquarters": "Bethesda, MD",
+      "state": "MD"
+    },
+    {
+      "rank": 336,
+      "company": "Clorox",
+      "industry": "Consumer Goods",
+      "revenueMillions": 7382,
+      "employees": 7000,
+      "headquarters": "Oakland, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 337,
+      "company": "Advance Auto Parts",
+      "industry": "Retail",
+      "revenueMillions": 11200,
+      "employees": 55000,
+      "headquarters": "Raleigh, NC",
+      "state": "NC"
+    },
+    {
+      "rank": 338,
+      "company": "PPL Corporation",
+      "industry": "Utilities",
+      "revenueMillions": 8359,
+      "employees": 6900,
+      "headquarters": "Allentown, PA",
+      "state": "PA"
+    },
+    {
+      "rank": 339,
+      "company": "Citizens Financial Group",
+      "industry": "Financial Services",
+      "revenueMillions": 8187,
+      "employees": 18000,
+      "headquarters": "Providence, RI",
+      "state": "RI"
+    },
+    {
+      "rank": 340,
+      "company": "Rockwell Automation",
+      "industry": "Industrial Technology",
+      "revenueMillions": 8264,
+      "employees": 28200,
+      "headquarters": "Milwaukee, WI",
+      "state": "WI"
+    },
+    {
+      "rank": 341,
+      "company": "Aptiv",
+      "industry": "Automotive Technology",
+      "revenueMillions": 19826,
+      "employees": 148000,
+      "headquarters": "Dublin, Ireland (US ops: Troy, MI)",
+      "state": "MI"
+    },
+    {
+      "rank": 342,
+      "company": "Expedia Group",
+      "industry": "Technology / Travel",
+      "revenueMillions": 13390,
+      "employees": 17100,
+      "headquarters": "Seattle, WA",
+      "state": "WA"
+    },
+    {
+      "rank": 343,
+      "company": "Dick's Sporting Goods",
+      "industry": "Retail",
+      "revenueMillions": 13019,
+      "employees": 55000,
+      "headquarters": "Coraopolis, PA",
+      "state": "PA"
+    },
+    {
+      "rank": 344,
+      "company": "Olin",
+      "industry": "Chemicals / Defense",
+      "revenueMillions": 6920,
+      "employees": 7600,
+      "headquarters": "Clayton, MO",
+      "state": "MO"
+    },
+    {
+      "rank": 345,
+      "company": "Flowserve",
+      "industry": "Industrial Machinery",
+      "revenueMillions": 4300,
+      "employees": 16000,
+      "headquarters": "Irving, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 346,
+      "company": "Graphic Packaging Holding",
+      "industry": "Paper / Packaging",
+      "revenueMillions": 9428,
+      "employees": 24000,
+      "headquarters": "Atlanta, GA",
+      "state": "GA"
+    },
+    {
+      "rank": 347,
+      "company": "Erie Indemnity",
+      "industry": "Insurance",
+      "revenueMillions": 11900,
+      "employees": 6000,
+      "headquarters": "Erie, PA",
+      "state": "PA"
+    },
+    {
+      "rank": 348,
+      "company": "Fidelity National Financial",
+      "industry": "Insurance",
+      "revenueMillions": 12130,
+      "employees": 24800,
+      "headquarters": "Jacksonville, FL",
+      "state": "FL"
+    },
+    {
+      "rank": 349,
+      "company": "Cintas",
+      "industry": "Business Services",
+      "revenueMillions": 9601,
+      "employees": 47000,
+      "headquarters": "Mason, OH",
+      "state": "OH"
+    },
+    {
+      "rank": 350,
+      "company": "Old Republic International",
+      "industry": "Insurance",
+      "revenueMillions": 9153,
+      "employees": 9300,
+      "headquarters": "Chicago, IL",
+      "state": "IL"
+    },
+    {
+      "rank": 351,
+      "company": "Avery Dennison",
+      "industry": "Manufacturing",
+      "revenueMillions": 8741,
+      "employees": 35000,
+      "headquarters": "Mentor, OH",
+      "state": "OH"
+    },
+    {
+      "rank": 352,
+      "company": "Synopsys",
+      "industry": "Technology",
+      "revenueMillions": 6127,
+      "employees": 19100,
+      "headquarters": "Sunnyvale, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 353,
+      "company": "Fastenal",
+      "industry": "Industrial Distribution",
+      "revenueMillions": 7550,
+      "employees": 23800,
+      "headquarters": "Winona, MN",
+      "state": "MN"
+    },
+    {
+      "rank": 354,
+      "company": "Teledyne Technologies",
+      "industry": "Aerospace / Defense",
+      "revenueMillions": 5626,
+      "employees": 46000,
+      "headquarters": "Thousand Oaks, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 355,
+      "company": "McCormick",
+      "industry": "Consumer Goods",
+      "revenueMillions": 6676,
+      "employees": 14000,
+      "headquarters": "Hunt Valley, MD",
+      "state": "MD"
+    },
+    {
+      "rank": 356,
+      "company": "Trimble",
+      "industry": "Technology",
+      "revenueMillions": 3681,
+      "employees": 12400,
+      "headquarters": "Westminster, CO",
+      "state": "CO"
+    },
+    {
+      "rank": 357,
+      "company": "Crown Holdings",
+      "industry": "Packaging",
+      "revenueMillions": 11902,
+      "employees": 22500,
+      "headquarters": "Yardley, PA",
+      "state": "PA"
+    },
+    {
+      "rank": 358,
+      "company": "Yum! Brands",
+      "industry": "Food / Beverage",
+      "revenueMillions": 7076,
+      "employees": 36000,
+      "headquarters": "Louisville, KY",
+      "state": "KY"
+    },
+    {
+      "rank": 359,
+      "company": "Fortinet",
+      "industry": "Technology / Cybersecurity",
+      "revenueMillions": 5960,
+      "employees": 14800,
+      "headquarters": "Sunnyvale, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 360,
+      "company": "Dover",
+      "industry": "Industrial Machinery",
+      "revenueMillions": 8544,
+      "employees": 25000,
+      "headquarters": "Downers Grove, IL",
+      "state": "IL"
+    },
+    {
+      "rank": 361,
+      "company": "Ryder System",
+      "industry": "Transportation / Logistics",
+      "revenueMillions": 12170,
+      "employees": 48300,
+      "headquarters": "Miami, FL",
+      "state": "FL"
+    },
+    {
+      "rank": 362,
+      "company": "Ovintiv",
+      "industry": "Energy",
+      "revenueMillions": 10170,
+      "employees": 2000,
+      "headquarters": "Denver, CO",
+      "state": "CO"
+    },
+    {
+      "rank": 363,
+      "company": "Insight Enterprises",
+      "industry": "Technology Distribution",
+      "revenueMillions": 9410,
+      "employees": 14800,
+      "headquarters": "Chandler, AZ",
+      "state": "AZ"
+    },
+    {
+      "rank": 364,
+      "company": "Tapestry",
+      "industry": "Consumer Goods",
+      "revenueMillions": 6671,
+      "employees": 16300,
+      "headquarters": "New York, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 365,
+      "company": "NetApp",
+      "industry": "Technology",
+      "revenueMillions": 6540,
+      "employees": 12000,
+      "headquarters": "San Jose, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 366,
+      "company": "ServiceNow",
+      "industry": "Technology",
+      "revenueMillions": 11018,
+      "employees": 24000,
+      "headquarters": "Santa Clara, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 367,
+      "company": "TransDigm Group",
+      "industry": "Aerospace / Defense",
+      "revenueMillions": 7940,
+      "employees": 13600,
+      "headquarters": "Cleveland, OH",
+      "state": "OH"
+    },
+    {
+      "rank": 368,
+      "company": "Smith International",
+      "industry": "Energy Services",
+      "revenueMillions": 8400,
+      "employees": 23000,
+      "headquarters": "Houston, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 369,
+      "company": "W.W. Grainger",
+      "industry": "Industrial Distribution",
+      "revenueMillions": 16928,
+      "employees": 27000,
+      "headquarters": "Lake Forest, IL",
+      "state": "IL"
+    },
+    {
+      "rank": 370,
+      "company": "Sonoco Products",
+      "industry": "Packaging",
+      "revenueMillions": 6789,
+      "employees": 22000,
+      "headquarters": "Hartsville, SC",
+      "state": "SC"
+    },
+    {
+      "rank": 371,
+      "company": "Polaris",
+      "industry": "Automotive / Recreation",
+      "revenueMillions": 8223,
+      "employees": 16000,
+      "headquarters": "Medina, MN",
+      "state": "MN"
+    },
+    {
+      "rank": 372,
+      "company": "Comerica",
+      "industry": "Financial Services",
+      "revenueMillions": 3621,
+      "employees": 7500,
+      "headquarters": "Dallas, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 373,
+      "company": "SBA Communications",
+      "industry": "Real Estate / Telecom",
+      "revenueMillions": 2608,
+      "employees": 1900,
+      "headquarters": "Boca Raton, FL",
+      "state": "FL"
+    },
+    {
+      "rank": 374,
+      "company": "Hubbell",
+      "industry": "Industrial Machinery",
+      "revenueMillions": 5863,
+      "employees": 19000,
+      "headquarters": "Shelton, CT",
+      "state": "CT"
+    },
+    {
+      "rank": 375,
+      "company": "Snap-on",
+      "industry": "Industrial Machinery",
+      "revenueMillions": 4758,
+      "employees": 12600,
+      "headquarters": "Kenosha, WI",
+      "state": "WI"
+    },
+    {
+      "rank": 376,
+      "company": "Roper Technologies",
+      "industry": "Industrial Technology",
+      "revenueMillions": 6757,
+      "employees": 17700,
+      "headquarters": "Sarasota, FL",
+      "state": "FL"
+    },
+    {
+      "rank": 377,
+      "company": "IDEX",
+      "industry": "Industrial Machinery",
+      "revenueMillions": 3272,
+      "employees": 8500,
+      "headquarters": "Lake Forest, IL",
+      "state": "IL"
+    },
+    {
+      "rank": 378,
+      "company": "J.B. Hunt Transport Services",
+      "industry": "Transportation / Logistics",
+      "revenueMillions": 12090,
+      "employees": 33000,
+      "headquarters": "Lowell, AR",
+      "state": "AR"
+    },
+    {
+      "rank": 379,
+      "company": "EMCOR Group",
+      "industry": "Engineering / Construction",
+      "revenueMillions": 14550,
+      "employees": 43000,
+      "headquarters": "Norwalk, CT",
+      "state": "CT"
+    },
+    {
+      "rank": 380,
+      "company": "News Corp",
+      "industry": "Media",
+      "revenueMillions": 10089,
+      "employees": 25800,
+      "headquarters": "New York, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 381,
+      "company": "Fox Corporation",
+      "industry": "Media",
+      "revenueMillions": 13844,
+      "employees": 10800,
+      "headquarters": "New York, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 382,
+      "company": "Fair Isaac",
+      "industry": "Technology / Analytics",
+      "revenueMillions": 1717,
+      "employees": 3600,
+      "headquarters": "Bozeman, MT",
+      "state": "MT"
+    },
+    {
+      "rank": 383,
+      "company": "CACI International",
+      "industry": "Technology / Defense",
+      "revenueMillions": 8051,
+      "employees": 24000,
+      "headquarters": "Reston, VA",
+      "state": "VA"
+    },
+    {
+      "rank": 384,
+      "company": "Lamb Weston Holdings",
+      "industry": "Food / Agriculture",
+      "revenueMillions": 6459,
+      "employees": 10000,
+      "headquarters": "Eagle, ID",
+      "state": "ID"
+    },
+    {
+      "rank": 385,
+      "company": "Foot Locker",
+      "industry": "Retail",
+      "revenueMillions": 8017,
+      "employees": 35000,
+      "headquarters": "New York, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 386,
+      "company": "Synovus Financial",
+      "industry": "Financial Services",
+      "revenueMillions": 2379,
+      "employees": 5300,
+      "headquarters": "Columbus, GA",
+      "state": "GA"
+    },
+    {
+      "rank": 387,
+      "company": "First Solar",
+      "industry": "Energy Technology",
+      "revenueMillions": 3319,
+      "employees": 7100,
+      "headquarters": "Tempe, AZ",
+      "state": "AZ"
+    },
+    {
+      "rank": 388,
+      "company": "Builders FirstSource",
+      "industry": "Construction / Distribution",
+      "revenueMillions": 16814,
+      "employees": 27900,
+      "headquarters": "Dallas, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 389,
+      "company": "Booz Allen Hamilton",
+      "industry": "Professional Services",
+      "revenueMillions": 10691,
+      "employees": 35800,
+      "headquarters": "McLean, VA",
+      "state": "VA"
+    },
+    {
+      "rank": 390,
+      "company": "Zebra Technologies",
+      "industry": "Technology / Hardware",
+      "revenueMillions": 4584,
+      "employees": 8800,
+      "headquarters": "Lincolnshire, IL",
+      "state": "IL"
+    },
+    {
+      "rank": 391,
+      "company": "Oshkosh",
+      "industry": "Industrial Machinery",
+      "revenueMillions": 10330,
+      "employees": 17100,
+      "headquarters": "Oshkosh, WI",
+      "state": "WI"
+    },
+    {
+      "rank": 392,
+      "company": "Voya Financial",
+      "industry": "Financial Services",
+      "revenueMillions": 7778,
+      "employees": 7000,
+      "headquarters": "New York, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 393,
+      "company": "Cabot Oil & Gas",
+      "industry": "Energy",
+      "revenueMillions": 7890,
+      "employees": 800,
+      "headquarters": "Houston, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 394,
+      "company": "Wayfair",
+      "industry": "Retail / E-commerce",
+      "revenueMillions": 12003,
+      "employees": 15300,
+      "headquarters": "Boston, MA",
+      "state": "MA"
+    },
+    {
+      "rank": 395,
+      "company": "Juniper Networks",
+      "industry": "Technology",
+      "revenueMillions": 5571,
+      "employees": 10300,
+      "headquarters": "Sunnyvale, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 396,
+      "company": "Verisign",
+      "industry": "Technology",
+      "revenueMillions": 1546,
+      "employees": 1000,
+      "headquarters": "Reston, VA",
+      "state": "VA"
+    },
+    {
+      "rank": 397,
+      "company": "Teradata",
+      "industry": "Technology",
+      "revenueMillions": 1768,
+      "employees": 6600,
+      "headquarters": "San Diego, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 398,
+      "company": "Mattel",
+      "industry": "Consumer Goods",
+      "revenueMillions": 5468,
+      "employees": 33000,
+      "headquarters": "El Segundo, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 399,
+      "company": "Hasbro",
+      "industry": "Consumer Goods",
+      "revenueMillions": 4086,
+      "employees": 4500,
+      "headquarters": "Pawtucket, RI",
+      "state": "RI"
+    },
+    {
+      "rank": 400,
+      "company": "Zoetis",
+      "industry": "Healthcare",
+      "revenueMillions": 9064,
+      "employees": 13800,
+      "headquarters": "Parsippany, NJ",
+      "state": "NJ"
+    },
+    {
+      "rank": 401,
+      "company": "Host Hotels & Resorts",
+      "industry": "Real Estate",
+      "revenueMillions": 5699,
+      "employees": 200,
+      "headquarters": "Bethesda, MD",
+      "state": "MD"
+    },
+    {
+      "rank": 402,
+      "company": "Xylem",
+      "industry": "Industrial Machinery",
+      "revenueMillions": 8136,
+      "employees": 23000,
+      "headquarters": "Washington, DC",
+      "state": "DC"
+    },
+    {
+      "rank": 403,
+      "company": "Cadence Design Systems",
+      "industry": "Technology",
+      "revenueMillions": 4644,
+      "employees": 12000,
+      "headquarters": "San Jose, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 404,
+      "company": "Verint Systems",
+      "industry": "Technology",
+      "revenueMillions": 916,
+      "employees": 4000,
+      "headquarters": "Melville, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 405,
+      "company": "Workday",
+      "industry": "Technology",
+      "revenueMillions": 7896,
+      "employees": 18800,
+      "headquarters": "Pleasanton, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 406,
+      "company": "Match Group",
+      "industry": "Technology",
+      "revenueMillions": 3392,
+      "employees": 2700,
+      "headquarters": "Dallas, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 407,
+      "company": "Realty Income",
+      "industry": "Real Estate",
+      "revenueMillions": 5088,
+      "employees": 400,
+      "headquarters": "San Diego, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 408,
+      "company": "Akamai Technologies",
+      "industry": "Technology",
+      "revenueMillions": 3941,
+      "employees": 10100,
+      "headquarters": "Cambridge, MA",
+      "state": "MA"
+    },
+    {
+      "rank": 409,
+      "company": "Brunswick",
+      "industry": "Consumer Goods / Marine",
+      "revenueMillions": 5466,
+      "employees": 17000,
+      "headquarters": "Mettawa, IL",
+      "state": "IL"
+    },
+    {
+      "rank": 410,
+      "company": "Albemarle",
+      "industry": "Chemicals",
+      "revenueMillions": 5526,
+      "employees": 8000,
+      "headquarters": "Charlotte, NC",
+      "state": "NC"
+    },
+    {
+      "rank": 411,
+      "company": "Arch Capital Group",
+      "industry": "Insurance",
+      "revenueMillions": 15200,
+      "employees": 5600,
+      "headquarters": "Pembroke, Bermuda (US ops: NJ)",
+      "state": "NJ"
+    },
+    {
+      "rank": 412,
+      "company": "Leggett & Platt",
+      "industry": "Manufacturing",
+      "revenueMillions": 4749,
+      "employees": 20000,
+      "headquarters": "Carthage, MO",
+      "state": "MO"
+    },
+    {
+      "rank": 413,
+      "company": "XPO",
+      "industry": "Transportation / Logistics",
+      "revenueMillions": 8077,
+      "employees": 38000,
+      "headquarters": "Greenwich, CT",
+      "state": "CT"
+    },
+    {
+      "rank": 414,
+      "company": "Carlisle Companies",
+      "industry": "Manufacturing",
+      "revenueMillions": 4839,
+      "employees": 17600,
+      "headquarters": "Scottsdale, AZ",
+      "state": "AZ"
+    },
+    {
+      "rank": 415,
+      "company": "Jack Henry & Associates",
+      "industry": "Financial Technology",
+      "revenueMillions": 2268,
+      "employees": 7300,
+      "headquarters": "Monett, MO",
+      "state": "MO"
+    },
+    {
+      "rank": 416,
+      "company": "Allegion",
+      "industry": "Industrial Machinery",
+      "revenueMillions": 3638,
+      "employees": 12400,
+      "headquarters": "Dublin, Ireland (US ops: Carmel, IN)",
+      "state": "IN"
+    },
+    {
+      "rank": 417,
+      "company": "ON Semiconductor",
+      "industry": "Technology",
+      "revenueMillions": 7082,
+      "employees": 33500,
+      "headquarters": "Scottsdale, AZ",
+      "state": "AZ"
+    },
+    {
+      "rank": 418,
+      "company": "Gartner",
+      "industry": "Technology / Research",
+      "revenueMillions": 6090,
+      "employees": 20600,
+      "headquarters": "Stamford, CT",
+      "state": "CT"
+    },
+    {
+      "rank": 419,
+      "company": "APA Corporation",
+      "industry": "Energy",
+      "revenueMillions": 8564,
+      "employees": 3300,
+      "headquarters": "Houston, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 420,
+      "company": "Ralph Lauren",
+      "industry": "Consumer Goods",
+      "revenueMillions": 6632,
+      "employees": 13300,
+      "headquarters": "New York, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 421,
+      "company": "American Tower",
+      "industry": "Real Estate / Telecom",
+      "revenueMillions": 11139,
+      "employees": 6200,
+      "headquarters": "Boston, MA",
+      "state": "MA"
+    },
+    {
+      "rank": 422,
+      "company": "PVH Corp",
+      "industry": "Consumer Goods",
+      "revenueMillions": 8576,
+      "employees": 25000,
+      "headquarters": "New York, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 423,
+      "company": "NVR",
+      "industry": "Homebuilding",
+      "revenueMillions": 9935,
+      "employees": 7100,
+      "headquarters": "Reston, VA",
+      "state": "VA"
+    },
+    {
+      "rank": 424,
+      "company": "Taylor Morrison",
+      "industry": "Homebuilding",
+      "revenueMillions": 7697,
+      "employees": 3000,
+      "headquarters": "Scottsdale, AZ",
+      "state": "AZ"
+    },
+    {
+      "rank": 425,
+      "company": "PulteGroup",
+      "industry": "Homebuilding",
+      "revenueMillions": 16384,
+      "employees": 7300,
+      "headquarters": "Atlanta, GA",
+      "state": "GA"
+    },
+    {
+      "rank": 426,
+      "company": "Toll Brothers",
+      "industry": "Homebuilding",
+      "revenueMillions": 10247,
+      "employees": 6900,
+      "headquarters": "Fort Washington, PA",
+      "state": "PA"
+    },
+    {
+      "rank": 427,
+      "company": "Smith & Wesson Brands",
+      "industry": "Manufacturing",
+      "revenueMillions": 546,
+      "employees": 1600,
+      "headquarters": "Springfield, MA",
+      "state": "MA"
+    },
+    {
+      "rank": 428,
+      "company": "Flowers Foods",
+      "industry": "Food",
+      "revenueMillions": 5214,
+      "employees": 12000,
+      "headquarters": "Thomasville, GA",
+      "state": "GA"
+    },
+    {
+      "rank": 429,
+      "company": "Watsco",
+      "industry": "Industrial Distribution",
+      "revenueMillions": 7543,
+      "employees": 7500,
+      "headquarters": "Miami, FL",
+      "state": "FL"
+    },
+    {
+      "rank": 430,
+      "company": "Veeva Systems",
+      "industry": "Technology",
+      "revenueMillions": 2364,
+      "employees": 7200,
+      "headquarters": "Pleasanton, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 431,
+      "company": "Masco",
+      "industry": "Manufacturing",
+      "revenueMillions": 7934,
+      "employees": 18800,
+      "headquarters": "Livonia, MI",
+      "state": "MI"
+    },
+    {
+      "rank": 432,
+      "company": "Viasat",
+      "industry": "Technology / Telecom",
+      "revenueMillions": 4397,
+      "employees": 22000,
+      "headquarters": "Carlsbad, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 433,
+      "company": "Genpact",
+      "industry": "Professional Services",
+      "revenueMillions": 4575,
+      "employees": 120000,
+      "headquarters": "New York, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 434,
+      "company": "MSC Industrial Direct",
+      "industry": "Industrial Distribution",
+      "revenueMillions": 3809,
+      "employees": 7000,
+      "headquarters": "Melville, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 435,
+      "company": "Burlington Stores",
+      "industry": "Retail",
+      "revenueMillions": 10569,
+      "employees": 43000,
+      "headquarters": "Burlington, NJ",
+      "state": "NJ"
+    },
+    {
+      "rank": 436,
+      "company": "Casey's General Stores",
+      "industry": "Retail / Convenience",
+      "revenueMillions": 15096,
+      "employees": 47000,
+      "headquarters": "Ankeny, IA",
+      "state": "IA"
+    },
+    {
+      "rank": 437,
+      "company": "Oscar Health",
+      "industry": "Healthcare / Insurance",
+      "revenueMillions": 8206,
+      "employees": 3300,
+      "headquarters": "New York, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 438,
+      "company": "Spectrum Brands Holdings",
+      "industry": "Consumer Goods",
+      "revenueMillions": 2944,
+      "employees": 6400,
+      "headquarters": "Middleton, WI",
+      "state": "WI"
+    },
+    {
+      "rank": 439,
+      "company": "Sealed Air",
+      "industry": "Packaging",
+      "revenueMillions": 5349,
+      "employees": 16300,
+      "headquarters": "Charlotte, NC",
+      "state": "NC"
+    },
+    {
+      "rank": 440,
+      "company": "TopBuild",
+      "industry": "Construction",
+      "revenueMillions": 4072,
+      "employees": 16800,
+      "headquarters": "Daytona Beach, FL",
+      "state": "FL"
+    },
+    {
+      "rank": 441,
+      "company": "Science Applications International",
+      "industry": "Technology / Defense",
+      "revenueMillions": 7439,
+      "employees": 26000,
+      "headquarters": "Reston, VA",
+      "state": "VA"
+    },
+    {
+      "rank": 442,
+      "company": "Commvault Systems",
+      "industry": "Technology",
+      "revenueMillions": 907,
+      "employees": 3200,
+      "headquarters": "Tinton Falls, NJ",
+      "state": "NJ"
+    },
+    {
+      "rank": 443,
+      "company": "Globe Life",
+      "industry": "Insurance",
+      "revenueMillions": 6286,
+      "employees": 4400,
+      "headquarters": "McKinney, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 444,
+      "company": "ChampionX",
+      "industry": "Chemicals / Energy",
+      "revenueMillions": 3773,
+      "employees": 7500,
+      "headquarters": "The Woodlands, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 445,
+      "company": "Envision Healthcare",
+      "industry": "Healthcare",
+      "revenueMillions": 7800,
+      "employees": 40000,
+      "headquarters": "Nashville, TN",
+      "state": "TN"
+    },
+    {
+      "rank": 446,
+      "company": "Smucker",
+      "industry": "Consumer Goods",
+      "revenueMillions": 8795,
+      "employees": 10000,
+      "headquarters": "Orrville, OH",
+      "state": "OH"
+    },
+    {
+      "rank": 447,
+      "company": "Airbnb",
+      "industry": "Technology / Hospitality",
+      "revenueMillions": 11087,
+      "employees": 6907,
+      "headquarters": "San Francisco, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 448,
+      "company": "Pool Corporation",
+      "industry": "Wholesale / Distribution",
+      "revenueMillions": 5316,
+      "employees": 6000,
+      "headquarters": "Covington, LA",
+      "state": "LA"
+    },
+    {
+      "rank": 449,
+      "company": "Generac Holdings",
+      "industry": "Industrial Machinery",
+      "revenueMillions": 3946,
+      "employees": 9700,
+      "headquarters": "Waukesha, WI",
+      "state": "WI"
+    },
+    {
+      "rank": 450,
+      "company": "Graco",
+      "industry": "Industrial Machinery",
+      "revenueMillions": 2207,
+      "employees": 4200,
+      "headquarters": "Minneapolis, MN",
+      "state": "MN"
+    },
+    {
+      "rank": 451,
+      "company": "RPC",
+      "industry": "Energy Services",
+      "revenueMillions": 1654,
+      "employees": 3800,
+      "headquarters": "Atlanta, GA",
+      "state": "GA"
+    },
+    {
+      "rank": 452,
+      "company": "C.H. Robinson Worldwide",
+      "industry": "Transportation / Logistics",
+      "revenueMillions": 17697,
+      "employees": 14400,
+      "headquarters": "Eden Prairie, MN",
+      "state": "MN"
+    },
+    {
+      "rank": 453,
+      "company": "Zions Bancorporation",
+      "industry": "Financial Services",
+      "revenueMillions": 3072,
+      "employees": 10000,
+      "headquarters": "Salt Lake City, UT",
+      "state": "UT"
+    },
+    {
+      "rank": 454,
+      "company": "Agilent Technologies",
+      "industry": "Life Sciences",
+      "revenueMillions": 6512,
+      "employees": 18000,
+      "headquarters": "Santa Clara, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 455,
+      "company": "Coterra Energy",
+      "industry": "Energy",
+      "revenueMillions": 5769,
+      "employees": 700,
+      "headquarters": "Houston, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 456,
+      "company": "Analog Devices",
+      "industry": "Technology",
+      "revenueMillions": 9429,
+      "employees": 26000,
+      "headquarters": "Wilmington, MA",
+      "state": "MA"
+    },
+    {
+      "rank": 457,
+      "company": "Experian",
+      "industry": "Financial Services / Data",
+      "revenueMillions": 7400,
+      "employees": 22500,
+      "headquarters": "Costa Mesa, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 458,
+      "company": "Delek US Holdings",
+      "industry": "Energy",
+      "revenueMillions": 11694,
+      "employees": 3700,
+      "headquarters": "Brentwood, TN",
+      "state": "TN"
+    },
+    {
+      "rank": 459,
+      "company": "Selective Insurance Group",
+      "industry": "Insurance",
+      "revenueMillions": 4890,
+      "employees": 3100,
+      "headquarters": "Branchville, NJ",
+      "state": "NJ"
+    },
+    {
+      "rank": 460,
+      "company": "Steven Madden",
+      "industry": "Consumer Goods",
+      "revenueMillions": 2170,
+      "employees": 4000,
+      "headquarters": "Long Island City, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 461,
+      "company": "Dolby Laboratories",
+      "industry": "Technology",
+      "revenueMillions": 1290,
+      "employees": 2400,
+      "headquarters": "San Francisco, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 462,
+      "company": "SpartanNash",
+      "industry": "Food Distribution",
+      "revenueMillions": 9621,
+      "employees": 16700,
+      "headquarters": "Grand Rapids, MI",
+      "state": "MI"
+    },
+    {
+      "rank": 463,
+      "company": "ChemTreat",
+      "industry": "Chemicals",
+      "revenueMillions": 7800,
+      "employees": 3000,
+      "headquarters": "Glen Allen, VA",
+      "state": "VA"
+    },
+    {
+      "rank": 464,
+      "company": "MDU Resources Group",
+      "industry": "Utilities / Construction",
+      "revenueMillions": 5780,
+      "employees": 9700,
+      "headquarters": "Bismarck, ND",
+      "state": "ND"
+    },
+    {
+      "rank": 465,
+      "company": "Curtiss-Wright",
+      "industry": "Aerospace / Defense",
+      "revenueMillions": 3068,
+      "employees": 8200,
+      "headquarters": "Davidson, NC",
+      "state": "NC"
+    },
+    {
+      "rank": 466,
+      "company": "SPX Technologies",
+      "industry": "Industrial Technology",
+      "revenueMillions": 1820,
+      "employees": 5600,
+      "headquarters": "Charlotte, NC",
+      "state": "NC"
+    },
+    {
+      "rank": 467,
+      "company": "Resideo Technologies",
+      "industry": "Technology",
+      "revenueMillions": 6124,
+      "employees": 14500,
+      "headquarters": "Scottsdale, AZ",
+      "state": "AZ"
+    },
+    {
+      "rank": 468,
+      "company": "Worthington Enterprises",
+      "industry": "Manufacturing",
+      "revenueMillions": 1284,
+      "employees": 5000,
+      "headquarters": "Columbus, OH",
+      "state": "OH"
+    },
+    {
+      "rank": 469,
+      "company": "Green Dot",
+      "industry": "Financial Technology",
+      "revenueMillions": 1654,
+      "employees": 1300,
+      "headquarters": "Austin, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 470,
+      "company": "Palo Alto Networks",
+      "industry": "Technology / Cybersecurity",
+      "revenueMillions": 8027,
+      "employees": 15976,
+      "headquarters": "Santa Clara, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 471,
+      "company": "Reliance Steel & Aluminum",
+      "industry": "Metals / Steel",
+      "revenueMillions": 14013,
+      "employees": 14700,
+      "headquarters": "Scottsdale, AZ",
+      "state": "AZ"
+    },
+    {
+      "rank": 472,
+      "company": "WESCO International",
+      "industry": "Industrial Distribution",
+      "revenueMillions": 22437,
+      "employees": 20000,
+      "headquarters": "Pittsburgh, PA",
+      "state": "PA"
+    },
+    {
+      "rank": 473,
+      "company": "Patterson Companies",
+      "industry": "Healthcare",
+      "revenueMillions": 6580,
+      "employees": 8000,
+      "headquarters": "St. Paul, MN",
+      "state": "MN"
+    },
+    {
+      "rank": 474,
+      "company": "Berry Global Group",
+      "industry": "Packaging",
+      "revenueMillions": 12289,
+      "employees": 45000,
+      "headquarters": "Evansville, IN",
+      "state": "IN"
+    },
+    {
+      "rank": 475,
+      "company": "Graybar Electric",
+      "industry": "Industrial Distribution",
+      "revenueMillions": 10407,
+      "employees": 10000,
+      "headquarters": "St. Louis, MO",
+      "state": "MO"
+    },
+    {
+      "rank": 476,
+      "company": "Envista Holdings",
+      "industry": "Healthcare / Dental",
+      "revenueMillions": 2490,
+      "employees": 12000,
+      "headquarters": "Brea, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 477,
+      "company": "Smith & Nephew",
+      "industry": "Healthcare / Medical Devices",
+      "revenueMillions": 5760,
+      "employees": 18000,
+      "headquarters": "London, UK (US ops: Memphis, TN)",
+      "state": "TN"
+    },
+    {
+      "rank": 478,
+      "company": "Robert Half",
+      "industry": "Professional Services",
+      "revenueMillions": 5736,
+      "employees": 13000,
+      "headquarters": "Menlo Park, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 479,
+      "company": "Lamar Advertising",
+      "industry": "Advertising",
+      "revenueMillions": 2125,
+      "employees": 3800,
+      "headquarters": "Baton Rouge, LA",
+      "state": "LA"
+    },
+    {
+      "rank": 480,
+      "company": "A.O. Smith",
+      "industry": "Industrial Machinery",
+      "revenueMillions": 3906,
+      "employees": 15100,
+      "headquarters": "Milwaukee, WI",
+      "state": "WI"
+    },
+    {
+      "rank": 481,
+      "company": "Lincoln Electric Holdings",
+      "industry": "Industrial Machinery",
+      "revenueMillions": 4044,
+      "employees": 12000,
+      "headquarters": "Cleveland, OH",
+      "state": "OH"
+    },
+    {
+      "rank": 482,
+      "company": "Mercury General",
+      "industry": "Insurance",
+      "revenueMillions": 5207,
+      "employees": 4800,
+      "headquarters": "Los Angeles, CA",
+      "state": "CA"
+    },
+    {
+      "rank": 483,
+      "company": "KBR",
+      "industry": "Engineering / Defense",
+      "revenueMillions": 7568,
+      "employees": 34000,
+      "headquarters": "Houston, TX",
+      "state": "TX"
+    },
+    {
+      "rank": 484,
+      "company": "Murphy Oil",
+      "industry": "Energy",
+      "revenueMillions": 3621,
+      "employees": 900,
+      "headquarters": "El Dorado, AR",
+      "state": "AR"
+    },
+    {
+      "rank": 485,
+      "company": "Crane Holdings",
+      "industry": "Industrial Machinery",
+      "revenueMillions": 3755,
+      "employees": 11000,
+      "headquarters": "Stamford, CT",
+      "state": "CT"
+    },
+    {
+      "rank": 486,
+      "company": "Kemper",
+      "industry": "Insurance",
+      "revenueMillions": 5209,
+      "employees": 8900,
+      "headquarters": "Chicago, IL",
+      "state": "IL"
+    },
+    {
+      "rank": 487,
+      "company": "Vail Resorts",
+      "industry": "Hospitality / Leisure",
+      "revenueMillions": 2885,
+      "employees": 55000,
+      "headquarters": "Broomfield, CO",
+      "state": "CO"
+    },
+    {
+      "rank": 488,
+      "company": "Axon Enterprise",
+      "industry": "Technology / Public Safety",
+      "revenueMillions": 1943,
+      "employees": 4000,
+      "headquarters": "Scottsdale, AZ",
+      "state": "AZ"
+    },
+    {
+      "rank": 489,
+      "company": "GXO Logistics",
+      "industry": "Transportation / Logistics",
+      "revenueMillions": 10226,
+      "employees": 130000,
+      "headquarters": "Greenwich, CT",
+      "state": "CT"
+    },
+    {
+      "rank": 490,
+      "company": "Sensata Technologies",
+      "industry": "Technology",
+      "revenueMillions": 3937,
+      "employees": 18800,
+      "headquarters": "Attleboro, MA",
+      "state": "MA"
+    },
+    {
+      "rank": 491,
+      "company": "Clean Harbors",
+      "industry": "Environmental Services",
+      "revenueMillions": 5968,
+      "employees": 21000,
+      "headquarters": "Norwell, MA",
+      "state": "MA"
+    },
+    {
+      "rank": 492,
+      "company": "Pentair",
+      "industry": "Industrial Machinery",
+      "revenueMillions": 3977,
+      "employees": 11250,
+      "headquarters": "Golden Valley, MN",
+      "state": "MN"
+    },
+    {
+      "rank": 493,
+      "company": "Bright Horizons Family Solutions",
+      "industry": "Education",
+      "revenueMillions": 2561,
+      "employees": 33000,
+      "headquarters": "Newton, MA",
+      "state": "MA"
+    },
+    {
+      "rank": 494,
+      "company": "Brown & Brown",
+      "industry": "Insurance",
+      "revenueMillions": 4607,
+      "employees": 16600,
+      "headquarters": "Daytona Beach, FL",
+      "state": "FL"
+    },
+    {
+      "rank": 495,
+      "company": "Genworth Financial",
+      "industry": "Insurance",
+      "revenueMillions": 8068,
+      "employees": 2800,
+      "headquarters": "Richmond, VA",
+      "state": "VA"
+    },
+    {
+      "rank": 496,
+      "company": "W.R. Grace Holdings",
+      "industry": "Chemicals",
+      "revenueMillions": 1893,
+      "employees": 3600,
+      "headquarters": "Columbia, MD",
+      "state": "MD"
+    },
+    {
+      "rank": 497,
+      "company": "NorthWestern Energy Group",
+      "industry": "Utilities",
+      "revenueMillions": 1404,
+      "employees": 3200,
+      "headquarters": "Sioux Falls, SD",
+      "state": "SD"
+    },
+    {
+      "rank": 498,
+      "company": "Prestige Consumer Healthcare",
+      "industry": "Consumer Goods",
+      "revenueMillions": 1145,
+      "employees": 1500,
+      "headquarters": "Tarrytown, NY",
+      "state": "NY"
+    },
+    {
+      "rank": 499,
+      "company": "H&R Block",
+      "industry": "Financial Services",
+      "revenueMillions": 3608,
+      "employees": 6000,
+      "headquarters": "Kansas City, MO",
+      "state": "MO"
+    },
+    {
+      "rank": 500,
+      "company": "TripAdvisor",
+      "industry": "Technology / Travel",
+      "revenueMillions": 1788,
+      "employees": 3100,
+      "headquarters": "Needham, MA",
+      "state": "MA"
+    }
+  ]
+}
