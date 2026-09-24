@@ -1,0 +1,23 @@
+owner,issuer,as_of_date,reported_value_usd,source_id,filing_scope,notes
+Berkshire Hathaway,Ally Financial,2026-06-30,1240650000,SEC_BERKSHIRE,Form 13F,Aggregated across reported manager rows
+Berkshire Hathaway,Alphabet,2026-06-30,37764088383,SEC_BERKSHIRE,Form 13F,Aggregated across share classes and manager rows
+Berkshire Hathaway,American Express,2026-06-30,51282319275,SEC_BERKSHIRE,Form 13F,Aggregated across reported manager rows
+Berkshire Hathaway,Apple,2026-06-30,65950296923,SEC_BERKSHIRE,Form 13F,Aggregated across reported manager rows
+Berkshire Hathaway,Bank of America,2026-06-30,27543790975,SEC_BERKSHIRE,Form 13F,Aggregated across reported manager rows
+Berkshire Hathaway,Capital One Financial,2026-06-30,601860000,SEC_BERKSHIRE,Form 13F,Aggregated across reported manager rows
+Berkshire Hathaway,Chevron,2026-06-30,13986141890,SEC_BERKSHIRE,Form 13F,Aggregated across reported manager rows
+Berkshire Hathaway,Coca-Cola,2026-06-30,32508000000,SEC_BERKSHIRE,Form 13F,Aggregated across reported manager rows
+Berkshire Hathaway,D.R. Horton,2026-06-30,580504,SEC_BERKSHIRE,Form 13F,Aggregated across reported manager rows
+Berkshire Hathaway,DaVita,2026-06-30,6425268898,SEC_BERKSHIRE,Form 13F,Aggregated across reported manager rows
+Berkshire Hathaway,Delta Air Lines,2026-06-30,5368591200,SEC_BERKSHIRE,Form 13F,Aggregated across reported manager rows
+Berkshire Hathaway,Jefferies Financial Group,2026-06-30,21669229,SEC_BERKSHIRE,Form 13F,Aggregated across reported manager rows
+Berkshire Hathaway,Kraft Heinz,2026-06-30,7691494401,SEC_BERKSHIRE,Form 13F,Aggregated across reported manager rows
+Berkshire Hathaway,Kroger,2026-06-30,2165670000,SEC_BERKSHIRE,Form 13F,Aggregated across reported manager rows
+Berkshire Hathaway,Lennar,2026-06-30,1212927402,SEC_BERKSHIRE,Form 13F,Aggregated across share classes and manager rows
+Berkshire Hathaway,Macy's,2026-06-30,173031882,SEC_BERKSHIRE,Form 13F,Aggregated across reported manager rows
+Berkshire Hathaway,Moody's,2026-06-30,11173435852,SEC_BERKSHIRE,Form 13F,Aggregated across reported manager rows
+Berkshire Hathaway,Nucor,2026-06-30,413814258,SEC_BERKSHIRE,Form 13F,Aggregated across reported manager rows
+Berkshire Hathaway,Occidental Petroleum,2026-06-30,12868205304,SEC_BERKSHIRE,Form 13F,Aggregated across reported manager rows
+Berkshire Hathaway,Sirius XM Holdings,2026-06-30,3686802237,SEC_BERKSHIRE,Form 13F,Aggregated across reported manager rows
+Berkshire Hathaway,VeriSign,2026-06-30,2261494212,SEC_BERKSHIRE,Form 13F,Aggregated across reported manager rows
+

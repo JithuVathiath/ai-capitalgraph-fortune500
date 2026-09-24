@@ -1,0 +1,23 @@
+source_id,publisher,published_date,accessed_date,source_type,title,url,scope,quality_grade
+F500_2024,evaberezovska,2024-01-01,2026-09-24,open_dataset,Fortune Company Financial Analysis,https://github.com/evaberezovska/fortune-company-analysis,2024 company universe and financial fields,B
+FORTUNE_2026,Fortune,2026-06-01,2026-09-24,official_ranking,Fortune 500 2026,https://fortune.com/ranking/fortune500/,official top-ranking cross-check,A
+OPENAI_ENTERPRISE,OpenAI,2025-11-05,2026-09-24,provider_primary,One million business customers,https://openai.com/index/1-million-businesses-putting-ai-to-work/,named OpenAI business customers,A
+OPENAI_MS,OpenAI,2025-01-01,2026-09-24,provider_primary,Morgan Stanley uses AI evals,https://openai.com/index/morgan-stanley/,Morgan Stanley GPT-4 deployment,A
+OPENAI_MODERNA,OpenAI,2024-04-24,2026-09-24,provider_primary,Moderna accelerates development with OpenAI,https://openai.com/index/moderna/,Moderna enterprise deployment,A
+OPENAI_PVH,OpenAI,2026-01-15,2026-09-24,provider_primary,PVH reimagines fashion with OpenAI,https://openai.com/index/pvh-future-of-fashion/,PVH enterprise deployment,A
+MS_WALMART,Microsoft,2024-01-09,2026-09-24,provider_primary,Walmart unveils generative AI capabilities,https://blogs.microsoft.com/blog/2024/01/09/walmart-unveils-new-generative-ai-powered-capabilities-for-shoppers-and-associates/,Azure OpenAI deployment,A
+MS_AI_ACTION,Microsoft,2026-09-01,2026-09-24,provider_primary,AI in Action,https://news.microsoft.com/ai-in-action,Microsoft Copilot customer evidence,A
+ANTHROPIC_CUSTOMERS,Anthropic,2025-06-23,2026-09-24,provider_primary,Anthropic customer case studies,https://www.anthropic.com/customers,named Claude customers,A
+GOOGLE_GEMINI,Google Cloud,2025-10-09,2026-09-24,provider_primary,Gemini Enterprise customer evidence,https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-enterprise-sundar-pichai/,Gemini Enterprise deployments,A
+GOOGLE_GEMINI_WORK,Google Cloud,2024-09-24,2026-09-24,provider_primary,How customers are putting Gemini to work,https://cloud.google.com/blog/products/ai-machine-learning/how-customers-are-putting-gemini-to-work,Gemini and Vertex AI customer evidence,A
+GOOGLE_VERTEX,Google Cloud,2024-02-15,2026-09-24,provider_primary,Gemini on Vertex AI expands,https://cloud.google.com/blog/products/ai-machine-learning/gemini-on-vertex-ai-expands,Palo Alto Networks deployment,A
+GOOGLE_EARNINGS,Alphabet,2025-07-23,2026-09-24,company_primary,Alphabet Q2 2025 earnings remarks,https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q2-2025/,named enterprise Gemini customers,A
+GOOGLE_Q4_2025,Alphabet,2026-02-04,2026-09-24,company_primary,Alphabet Q4 2025 earnings remarks,https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q4-2025/,named Gemini Enterprise customers,A
+GOOGLE_GEMINI3,Google Cloud,2025-11-18,2026-09-24,provider_primary,Gemini 3 for enterprise,https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-is-available-for-enterprise,Wayfair pilot evidence,A
+FTC_AI,US Federal Trade Commission,2025-01-17,2026-09-24,regulator_report,Partnerships Between Cloud Service Providers and AI Developers,https://www.ftc.gov/reports/ftc-staff-report-ai-partnerships-investments-6b-study,Microsoft OpenAI Amazon Anthropic and Google Anthropic,A+
+AMAZON_ANTHROPIC,Amazon,2026-04-10,2026-09-24,company_primary,Amazon and Anthropic expand strategic collaboration,https://www.aboutamazon.com/news/company-news/amazon-invests-additional-5-billion-anthropic-ai,2026 investment update,A
+MS_OPENAI,Microsoft,2026-04-27,2026-09-24,company_primary,The next phase of the Microsoft OpenAI partnership,https://blogs.microsoft.com/blog/2026/04/27/the-next-phase-of-the-microsoft-openai-partnership/,2026 partnership terms,A
+SALESFORCE_AI,Salesforce,2025-10-16,2026-09-24,company_primary,Salesforce Ventures deploys AI fund,https://www.salesforce.com/news/news/stories/ventures-deploys-ai-fund/,AI investment portfolio,A
+INTEL_AWS,Intel,2024-09-16,2026-09-24,company_primary,Intel and AWS expand strategic collaboration,https://www.intel.com/content/www/us/en/newsroom/news/intel-strategic-collaboration.html,AI chip co-investment,A
+SEC_BERKSHIRE,US Securities and Exchange Commission,2026-08-14,2026-09-24,regulatory_filing,Berkshire Hathaway 2026 Q2 Form 13F information table,https://www.sec.gov/Archives/edgar/data/1067983/000119312526352200/xslForm13F_X02/56757.xml,public equity holdings at 2026-06-30,A+
+SEC_13F,US Securities and Exchange Commission,2026-08-31,2026-09-24,regulator_dataset,Form 13F Data Sets,https://www.sec.gov/data-research/sec-markets-data/form-13f-data-sets,quarterly institutional holdings,A+

@@ -1,0 +1,40 @@
+actor,target,relationship_type,technology,announced_date,amount_usd_millions,evidence_strength,operational_use,strategic_flags,source_id,notes
+Microsoft,OpenAI,equity_and_commercial,GPT and Azure,2019-07-22,13750,4,cloud and product integration,reciprocal_cloud_spend|control_rights|information_rights|switching_cost,FTC_AI,Amount reported by FTC through 2024; 2026 terms keep Microsoft as major shareholder
+Amazon,Anthropic,equity_and_commercial,Claude and AWS Trainium,2026-04-10,13000,4,model training and Bedrock distribution,reciprocal_cloud_spend|preferred_infrastructure|switching_cost,AMAZON_ANTHROPIC,Includes prior $8B plus $5B announced in 2026; excludes contingent future $20B
+Alphabet,Anthropic,equity_and_commercial,Claude and Google Cloud,2023-10-27,2550,4,cloud compute and model partnership,reciprocal_cloud_spend|information_rights|switching_cost,FTC_AI,Publicly reported amount summarized by FTC
+Salesforce,Anthropic,venture_investment,Claude,2023-03-07,,3,portfolio investment,undisclosed_amount|platform_optionality,SALESFORCE_AI,Named portfolio company; deal amount not disclosed
+Salesforce,Cohere,venture_investment,Cohere models,2023-03-07,,3,portfolio investment,undisclosed_amount|platform_optionality,SALESFORCE_AI,Named portfolio company; deal amount not disclosed
+Salesforce,Runway,venture_investment,generative media,2024-09-16,,3,portfolio investment,undisclosed_amount|platform_optionality,SALESFORCE_AI,Named portfolio company; deal amount not disclosed
+Salesforce,Together AI,venture_investment,AI infrastructure,2024-09-16,,3,portfolio investment,undisclosed_amount|platform_optionality,SALESFORCE_AI,Named portfolio company; deal amount not disclosed
+Salesforce,ElevenLabs,venture_investment,voice AI,2025-10-16,,3,portfolio investment,undisclosed_amount|platform_optionality,SALESFORCE_AI,Named portfolio company; deal amount not disclosed
+Salesforce,Writer,venture_investment,enterprise language AI,2025-10-16,,3,portfolio investment,undisclosed_amount|platform_optionality,SALESFORCE_AI,Named portfolio company; deal amount not disclosed
+Amazon,Intel,strategic_commercial,custom AI fabric chip,2024-09-16,,3,custom silicon manufacturing,multi_year_commitment|undisclosed_amount,INTEL_AWS,Multi-year multi-billion framework; exact AI allocation not disclosed
+Walmart,Microsoft,model_adoption,Azure OpenAI Service,2024-01-09,,3,shopping search and associate tools,,MS_WALMART,Uses proprietary and Azure OpenAI models
+Morgan Stanley,OpenAI,model_adoption,GPT-4 and Whisper,2023-03-14,,3,advisor knowledge retrieval and meeting summaries,high_regulatory_sensitivity,OPENAI_MS,Over 98 percent of advisor teams reported using the assistant
+Moderna,OpenAI,model_adoption,ChatGPT Enterprise,2024-04-24,,3,research legal manufacturing and commercial workflows,health_data_sensitivity,OPENAI_MODERNA,Enterprise-wide deployment with human validation
+Lowe's,OpenAI,model_adoption,OpenAI models,2025-11-05,,3,customer and associate project guidance,,OPENAI_ENTERPRISE,Deployed across more than 1700 stores
+Amgen,OpenAI,model_adoption,ChatGPT for Work,2025-11-05,,3,enterprise productivity,health_data_sensitivity,OPENAI_ENTERPRISE,Named business customer
+Booking Holdings,OpenAI,model_adoption,ChatGPT for Work,2025-11-05,,3,enterprise productivity,,OPENAI_ENTERPRISE,Named business customer
+Cisco Systems,OpenAI,model_adoption,ChatGPT for Work,2025-11-05,,3,enterprise productivity,,OPENAI_ENTERPRISE,Named business customer
+T-Mobile US,OpenAI,model_adoption,ChatGPT for Work,2025-11-05,,3,enterprise productivity,,OPENAI_ENTERPRISE,Named business customer
+Target,OpenAI,model_adoption,ChatGPT for Work,2025-11-05,,3,enterprise productivity and commerce,,OPENAI_ENTERPRISE,Named business customer
+Thermo Fisher Scientific,OpenAI,model_adoption,ChatGPT for Work,2025-11-05,,3,enterprise productivity,health_data_sensitivity,OPENAI_ENTERPRISE,Named business customer
+PayPal Holdings,OpenAI,model_adoption,OpenAI models,2025-11-05,,3,agentic commerce,financial_data_sensitivity,OPENAI_ENTERPRISE,Named business customer and commerce participant
+Intuit,OpenAI,model_adoption,OpenAI models,2026-01-15,,3,enterprise and customer workflows,financial_data_sensitivity,OPENAI_PVH,Named enterprise customer
+Bank of New York Mellon,OpenAI,model_adoption,OpenAI models,2026-01-15,,3,enterprise productivity,financial_data_sensitivity,OPENAI_PVH,Named enterprise customer as BNY
+PVH,OpenAI,model_adoption,OpenAI frontier models,2026-01-15,,3,design demand planning inventory and engagement,,OPENAI_PVH,Enterprise-wide partnership
+Bristol-Myers Squibb,Microsoft,model_adoption,Microsoft 365 Copilot,2026-09-01,,3,enterprise productivity,health_data_sensitivity,MS_AI_ACTION,Named Copilot customer
+PepsiCo,Microsoft,model_adoption,Microsoft 365 Copilot,2026-09-01,,3,enterprise productivity,,MS_AI_ACTION,Named Copilot customer
+Procter & Gamble,Microsoft,model_adoption,Microsoft 365 Copilot,2026-09-01,,3,enterprise productivity,,MS_AI_ACTION,Named Copilot customer
+Wells Fargo,Microsoft,model_adoption,Microsoft 365 Copilot,2026-09-01,,3,enterprise productivity,financial_data_sensitivity,MS_AI_ACTION,Named Copilot customer
+Lumen Technologies,Microsoft,model_adoption,Microsoft 365 Copilot,2026-09-01,,3,employee efficiency and customer relationships,,MS_AI_ACTION,Named Copilot customer
+Block,Anthropic,model_adoption,Claude,2025-04-07,,3,employee productivity and data access,financial_data_sensitivity,ANTHROPIC_CUSTOMERS,Anthropic customer case study
+Intuit,Anthropic,model_adoption,Claude,2024-08-14,,3,federal tax explainers,financial_data_sensitivity,ANTHROPIC_CUSTOMERS,Claude integrated into Intuit Assist for TurboTax
+Palo Alto Networks,Anthropic,model_adoption,Claude on Google Cloud,2024-12-04,,3,secure software development,cybersecurity_sensitivity,ANTHROPIC_CUSTOMERS,Anthropic customer case study
+AES,Anthropic,model_adoption,Claude on Vertex AI,2024-11-21,,3,renewable energy workflows,critical_infrastructure,ANTHROPIC_CUSTOMERS,Anthropic customer case study
+Best Buy,Google,model_adoption,Gemini Enterprise,2025-10-09,,3,customer service,,GOOGLE_GEMINI,Reported improvement in self-service and question resolution
+HCA Healthcare,Google,model_adoption,Gemini Enterprise,2025-10-09,,3,healthcare enterprise workflows,health_data_sensitivity,GOOGLE_GEMINI,Named early adopter
+Kroger,Google,model_adoption,Gemini Enterprise,2026-02-04,,3,customer interactions,,GOOGLE_Q4_2025,Named Gemini Enterprise customer
+Palo Alto Networks,Google,model_adoption,Gemini on Vertex AI,2024-02-15,,3,AI agents and security,cybersecurity_sensitivity,GOOGLE_VERTEX,Named select customer
+Salesforce,Google,model_adoption,Gemini,2025-07-23,,3,enterprise AI platform integration,platform_optionality,GOOGLE_EARNINGS,Named enterprise building with Gemini
+Wayfair,Google,model_adoption,Gemini 3 Pro,2025-11-18,,3,partner support procedures,,GOOGLE_GEMINI3,Publicly described pilot

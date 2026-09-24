@@ -1,0 +1,5 @@
+exposure_variable,outcome,spearman_rho,permutation_p_value,n,interpretation
+revenue_usd_millions,documented_ai_company,0.20976140803699034,0.0001999600079984003,500,descriptive association; evidence-discovery bias prevents causal interpretation
+employees,documented_ai_company,0.1816531954636432,0.0003999200159968006,500,descriptive association; evidence-discovery bias prevents causal interpretation
+market_cap_usd_millions,documented_ai_company,0.20479378000916953,0.0001999600079984003,474,descriptive association; evidence-discovery bias prevents causal interpretation
+profit_usd_millions,documented_ai_company,0.1863798049218834,0.0001999600079984003,500,descriptive association; evidence-discovery bias prevents causal interpretation

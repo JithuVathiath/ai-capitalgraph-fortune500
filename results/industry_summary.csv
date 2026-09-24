@@ -1,0 +1,22 @@
+sector,companies,documented_ai_companies,median_revenue_usd_millions,documented_ai_evidence_rate
+Apparel,4,1,10415.1,0.25
+Food & Drug Stores,5,1,77649.7,0.2
+Technology,49,7,17519.0,0.14285714285714285
+Telecommunications,7,1,54607.0,0.14285714285714285
+Retailing,47,6,15094.5,0.1276595744680851
+Household Products,9,1,15781.1,0.1111111111111111
+Business Services,19,2,16352.4,0.10526315789473684
+Health Care,43,3,20548.0,0.06976744186046512
+"Food, Beverages & Tobacco",25,1,15207.0,0.04
+Financials,92,3,16116.5,0.03260869565217391
+Energy,61,1,16720.0,0.01639344262295082
+Materials,21,0,12010.0,0.0
+Transportation,19,0,12829.7,0.0
+Industrials,18,0,17238.5,0.0
+Wholesalers,18,0,19438.7,0.0
+Chemicals,14,0,12574.0,0.0
+Engineering & Construction,12,0,15032.65,0.0
+"Hotels, Restaurants & Leisure",10,0,11325.5,0.0
+Motor Vehicles & Parts,10,0,21766.45,0.0
+Media,9,0,22749.1,0.0
+Aerospace & Defense,8,0,40781.0,0.0

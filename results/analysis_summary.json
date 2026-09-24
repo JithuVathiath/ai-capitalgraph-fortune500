@@ -1,0 +1,10 @@
+{
+  "data_cutoff": "2026-09-24",
+  "documented_company_count": 27,
+  "network_edges": 60,
+  "network_nodes": 59,
+  "ownership_edges": 21,
+  "random_seed": 42,
+  "relationships": 39,
+  "universe_companies": 500
+}
