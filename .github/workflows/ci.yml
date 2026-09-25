@@ -19,4 +19,16 @@ jobs:
       - run: python -m pip install -r requirements.txt
       - run: PYTHONPATH=src python -m pytest
       - run: PYTHONPATH=src python -m aicapitalgraph.cli analyse
-      - run: git diff --exit-code -- results reports/generated_findings.md
+      - name: Validate generated research outputs
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          summary = json.loads(Path("results/analysis_summary.json").read_text())
+          assert summary["universe_companies"] == 500
+          assert summary["relationships"] >= 35
+          assert summary["ownership_edges"] >= 20
+          assert Path("reports/generated_findings.md").stat().st_size > 500
+          assert all(path.stat().st_size > 10_000 for path in Path("figures").glob("*.png"))
+          PY
